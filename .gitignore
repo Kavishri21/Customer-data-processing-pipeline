@@ -1,0 +1,30 @@
+# Environment variables & credentials (NEVER COMMIT SECRETS)
+.env
+.env.example
+INTERVIEW_NOTES.md
+requirements.txt
+
+
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+
+# IDE & Editor Settings
+.vscode/
+.idea/
+*.swp
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Large / Temporary Log Files
+*.log
