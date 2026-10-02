@@ -1,0 +1,38 @@
+{
+  "overall_status": "PASSED",
+  "total_checks": 6,
+  "passed_checks": 6,
+  "failed_checks": 0,
+  "details": [
+    {
+      "check_name": "Required Columns Exist",
+      "passed": true,
+      "details": "Customers missing: set(), Transactions missing: set()"
+    },
+    {
+      "check_name": "Primary Keys Non-Null",
+      "passed": true,
+      "details": "Customer PK Nulls: 0, Transaction PK Nulls: 0"
+    },
+    {
+      "check_name": "Primary Key Uniqueness",
+      "passed": true,
+      "details": "Customers total/unique: 147/147, Transactions total/unique: 550/550"
+    },
+    {
+      "check_name": "Numeric Range Validity",
+      "passed": true,
+      "details": "Invalid Qty Count: 0, Invalid Price Count: 0, Invalid Total Count: 0"
+    },
+    {
+      "check_name": "Referential Integrity (FK match)",
+      "passed": true,
+      "details": "Orphaned customer_id keys in transaction table: 0"
+    },
+    {
+      "check_name": "Date Field Validity",
+      "passed": true,
+      "details": "Invalid Customer Signup Dates: 0, Invalid Transaction Dates: 0"
+    }
+  ]
+}

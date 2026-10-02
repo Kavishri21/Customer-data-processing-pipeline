@@ -1,0 +1,64 @@
+============================================================
+DATA PROFILING REPORT
+============================================================
+
+--- RAW CUSTOMERS DATASET ---
+Row count    : 171
+Column count : 8
+Columns      : ['customer_id', 'customer_name', 'email', 'phone', 'city', 'state', 'signup_date', 'customer_segment']
+
+Data Types:
+  - customer_id: object
+  - customer_name: object
+  - email: object
+  - phone: object
+  - city: object
+  - state: object
+  - signup_date: object
+  - customer_segment: object
+
+Missing Values:
+  - customer_id: 0 missing (0.0%)
+  - customer_name: 0 missing (0.0%)
+  - email: 13 missing (7.6%)
+  - phone: 12 missing (7.0%)
+  - city: 9 missing (5.3%)
+  - state: 0 missing (0.0%)
+  - signup_date: 0 missing (0.0%)
+  - customer_segment: 0 missing (0.0%)
+
+Duplicate Customer IDs: 20
+Invalid Email Formats: 40
+Invalid/Unparseable Signup Dates: 3
+
+--- RAW TRANSACTIONS DATASET ---
+Row count    : 680
+Column count : 9
+Columns      : ['transaction_id', 'customer_id', 'transaction_date', 'product', 'category', 'quantity', 'unit_price', 'payment_method', 'transaction_status']
+
+Data Types:
+  - transaction_id: object
+  - customer_id: object
+  - transaction_date: object
+  - product: object
+  - category: object
+  - quantity: object
+  - unit_price: object
+  - payment_method: object
+  - transaction_status: object
+
+Missing Values:
+  - transaction_id: 0 missing (0.0%)
+  - customer_id: 0 missing (0.0%)
+  - transaction_date: 0 missing (0.0%)
+  - product: 0 missing (0.0%)
+  - category: 0 missing (0.0%)
+  - quantity: 0 missing (0.0%)
+  - unit_price: 20 missing (2.9%)
+  - payment_method: 0 missing (0.0%)
+  - transaction_status: 0 missing (0.0%)
+
+Duplicate Transaction IDs: 30
+Zero / Negative / Invalid Quantities: 32
+Missing / Negative / Invalid Unit Prices: 32
+Orphaned Transactions (Customer ID missing in Customer table): 29

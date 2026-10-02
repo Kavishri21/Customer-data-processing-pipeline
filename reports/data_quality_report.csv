@@ -1,0 +1,12 @@
+dataset,metric,count
+customers,total_records,171
+customers,duplicate_customer_ids,20
+customers,missing_email_records,13
+customers,invalid_email_format_records,40
+customers,missing_phone_records,12
+customers,missing_city_records,9
+transactions,total_records,680
+transactions,duplicate_transaction_ids,30
+transactions,invalid_or_negative_quantities,32
+transactions,invalid_or_missing_prices,32
+transactions,orphaned_referential_key_records,29
