@@ -1,0 +1,551 @@
+transaction_id,customer_id,transaction_date,product,category,quantity,unit_price,payment_method,transaction_status,total_amount,transaction_year,transaction_month,transaction_month_name
+TXN-10523,CUST-1099,2023-07-31 17:50:00,Sunscreen SPF 50,Beauty,3,499.0,Cash on Delivery,Cancelled,1497.0,2023,7,Jul
+TXN-10426,CUST-1091,2023-08-29 01:55:00,Organic Face Wash,Beauty,4,349.0,UPI,Completed,1396.0,2023,8,Aug
+TXN-10131,CUST-1102,2023-05-22 04:08:00,Sunscreen SPF 50,Beauty,1,499.0,Credit Card,Completed,499.0,2023,5,May
+TXN-10542,CUST-1126,2023-04-24 18:08:00,USB-C Hub,Electronics,4,1299.0,Cash on Delivery,Completed,5196.0,2023,4,Apr
+TXN-10646,CUST-1145,2024-01-29 09:20:00,Stainless Steel Water Bottle,Home & Kitchen,4,499.0,Cash on Delivery,Completed,1996.0,2024,1,Jan
+TXN-10403,CUST-1058,2024-02-05 13:07:00,Python Data Analysis Guide,Books,5,659.0,Cash on Delivery,Completed,3295.0,2024,2,Feb
+TXN-10532,CUST-1095,2024-02-22 08:14:00,Hair Nourishing Serum,Beauty,4,450.0,Cash on Delivery,Completed,1800.0,2024,2,Feb
+TXN-10209,CUST-1111,2023-08-01 15:29:00,Sports Running Shoes,Clothing,2,2999.0,Debit Card,Failed,5998.0,2023,8,Aug
+TXN-10335,CUST-1146,2023-08-14 11:46:00,Formal Dress Shirt,Clothing,5,1299.0,Net Banking,Pending,6495.0,2023,8,Aug
+TXN-10108,CUST-1130,2023-08-22 00:46:00,Slim Fit Denim Jeans,Clothing,1,1799.0,Cash on Delivery,Pending,1799.0,2023,8,Aug
+TXN-10476,CUST-1064,2024-02-09 18:35:00,Air Fryer 4L,Home & Kitchen,5,5999.0,UPI,Completed,29995.0,2024,2,Feb
+TXN-10322,CUST-1112,2023-05-29 18:17:00,Organic Face Wash,Beauty,2,349.0,Net Banking,Completed,698.0,2023,5,May
+TXN-10445,CUST-1032,2023-02-18 01:00:00,Casual Hooded Sweatshirt,Clothing,3,1499.0,Net Banking,Pending,4497.0,2023,2,Feb
+TXN-10139,CUST-1044,2023-06-10 21:16:00,Non-Stick Frying Pan,Home & Kitchen,1,899.0,Credit Card,Completed,899.0,2023,6,Jun
+TXN-10290,CUST-1117,2023-06-04 08:31:00,Slim Fit Denim Jeans,Clothing,4,1799.0,UPI,Failed,7196.0,2023,6,Jun
+TXN-10481,CUST-1089,2024-02-16 16:28:00,Designing Data-Intensive Applications,Books,2,1200.0,Debit Card,Completed,2400.0,2024,2,Feb
+TXN-10544,CUST-1057,2023-01-07 21:13:00,Data Engineering Essentials,Books,3,899.0,Debit Card,Pending,2697.0,2023,1,Jan
+TXN-10142,CUST-1115,2023-10-23 16:13:00,Slim Fit Denim Jeans,Clothing,1,1799.0,Debit Card,Failed,1799.0,2023,10,Oct
+TXN-10558,CUST-1019,2023-02-02 15:35:00,USB-C Hub,Electronics,5,1299.0,Credit Card,Completed,6495.0,2023,2,Feb
+TXN-10013,CUST-1008,2023-11-02 02:24:00,SQL Query Optimization,Books,5,750.0,UPI,Completed,3750.0,2023,11,Nov
+TXN-10639,CUST-1137,2024-03-20 04:11:00,Bluetooth Speaker,Electronics,3,1999.0,Net Banking,Pending,5997.0,2024,3,Mar
+TXN-10289,CUST-1078,2023-07-18 02:46:00,Sunscreen SPF 50,Beauty,4,499.0,UPI,Completed,1996.0,2023,7,Jul
+TXN-10649,CUST-1040,2023-05-13 16:36:00,Sunscreen SPF 50,Beauty,5,499.0,Cash on Delivery,Cancelled,2495.0,2023,5,May
+TXN-10372,CUST-1150,2024-02-11 00:24:00,LED Desk Lamp,Home & Kitchen,4,799.0,Debit Card,Failed,3196.0,2024,2,Feb
+TXN-10354,CUST-1017,2023-10-11 14:00:00,Air Fryer 4L,Home & Kitchen,5,5999.0,Debit Card,Pending,29995.0,2023,10,Oct
+TXN-10376,CUST-1120,2023-10-30 00:45:00,LED Desk Lamp,Home & Kitchen,2,799.0,Cash on Delivery,Pending,1598.0,2023,10,Oct
+TXN-10143,CUST-1032,2024-01-26 08:36:00,Sports Running Shoes,Clothing,5,2999.0,Cash on Delivery,Completed,14995.0,2024,1,Jan
+TXN-10261,CUST-1041,2023-07-12 05:48:00,Sunscreen SPF 50,Beauty,2,499.0,Debit Card,Completed,998.0,2023,7,Jul
+TXN-10562,CUST-1122,2023-08-11 16:40:00,Moisturizing Cream,Beauty,4,299.0,Cash on Delivery,Pending,1196.0,2023,8,Aug
+TXN-10377,CUST-1148,2023-09-09 01:05:00,Mechanical Keyboard,Electronics,2,3499.0,Credit Card,Cancelled,6998.0,2023,9,Sep
+TXN-10634,CUST-1016,2023-12-20 16:57:00,Formal Dress Shirt,Clothing,1,1299.0,Cash on Delivery,Completed,1299.0,2023,12,Dec
+TXN-10411,CUST-1033,2023-01-17 14:03:00,Air Fryer 4L,Home & Kitchen,3,5999.0,Net Banking,Failed,17997.0,2023,1,Jan
+TXN-10398,CUST-1086,2023-10-11 01:53:00,SQL Query Optimization,Books,5,750.0,Cash on Delivery,Pending,3750.0,2023,10,Oct
+TXN-10302,CUST-1060,2024-01-31 21:37:00,Moisturizing Cream,Beauty,1,299.0,Cash on Delivery,Completed,299.0,2024,1,Jan
+TXN-10031,CUST-1037,2023-02-05 19:04:00,Cotton T-Shirt,Clothing,5,599.0,UPI,Completed,2995.0,2023,2,Feb
+TXN-10574,CUST-1033,2024-01-13 01:12:00,Data Engineering Essentials,Books,5,899.0,UPI,Cancelled,4495.0,2024,1,Jan
+TXN-10094,CUST-1145,2023-04-28 21:53:00,Organic Face Wash,Beauty,3,349.0,Cash on Delivery,Completed,1047.0,2023,4,Apr
+TXN-10207,CUST-1107,2023-05-16 20:13:00,Organic Face Wash,Beauty,4,349.0,Cash on Delivery,Pending,1396.0,2023,5,May
+TXN-10412,CUST-1133,2023-12-15 00:15:00,LED Desk Lamp,Home & Kitchen,4,799.0,UPI,Cancelled,3196.0,2023,12,Dec
+TXN-10409,CUST-1036,2024-01-15 15:48:00,Organic Face Wash,Beauty,5,349.0,UPI,Completed,1745.0,2024,1,Jan
+TXN-10259,CUST-1078,2023-06-03 08:03:00,Sunscreen SPF 50,Beauty,4,499.0,Cash on Delivery,Cancelled,1996.0,2023,6,Jun
+TXN-10449,CUST-1105,2024-03-17 21:56:00,Formal Dress Shirt,Clothing,1,1299.0,Net Banking,Cancelled,1299.0,2024,3,Mar
+TXN-10236,CUST-1055,2023-04-06 23:55:00,Stainless Steel Water Bottle,Home & Kitchen,3,499.0,Cash on Delivery,Completed,1497.0,2023,4,Apr
+TXN-10442,CUST-1116,2023-05-01 00:00:00,Mechanical Keyboard,Electronics,4,3499.0,Credit Card,Completed,13996.0,2023,5,May
+TXN-10451,CUST-1144,2023-09-23 16:44:00,Hair Nourishing Serum,Beauty,2,450.0,Cash on Delivery,Failed,900.0,2023,9,Sep
+TXN-10369,CUST-1126,2023-09-12 00:24:00,Designing Data-Intensive Applications,Books,2,1200.0,UPI,Pending,2400.0,2023,9,Sep
+TXN-10423,CUST-1027,2024-03-06 21:56:00,Moisturizing Cream,Beauty,1,299.0,Cash on Delivery,Completed,299.0,2024,3,Mar
+TXN-10064,CUST-1006,2023-10-31 18:42:00,Gaming Mouse,Electronics,4,1599.0,Credit Card,Cancelled,6396.0,2023,10,Oct
+TXN-10266,CUST-1099,2023-07-23 07:35:00,Non-Stick Frying Pan,Home & Kitchen,4,899.0,Cash on Delivery,Failed,3596.0,2023,7,Jul
+TXN-10002,CUST-1008,2023-01-17 00:05:00,Sports Running Shoes,Clothing,5,2999.0,Credit Card,Pending,14995.0,2023,1,Jan
+TXN-10594,CUST-1034,2023-11-06 17:20:00,Non-Stick Frying Pan,Home & Kitchen,3,899.0,UPI,Pending,2697.0,2023,11,Nov
+TXN-10378,CUST-1102,2023-06-19 19:12:00,Slim Fit Denim Jeans,Clothing,3,1799.0,Credit Card,Completed,5397.0,2023,6,Jun
+TXN-10565,CUST-1041,2023-01-05 13:51:00,Stainless Steel Water Bottle,Home & Kitchen,5,499.0,Debit Card,Pending,2495.0,2023,1,Jan
+TXN-10271,CUST-1076,2024-01-04 17:31:00,Sports Running Shoes,Clothing,1,2999.0,Credit Card,Completed,2999.0,2024,1,Jan
+TXN-10453,CUST-1055,2024-03-21 05:04:00,Python Data Analysis Guide,Books,3,659.0,UPI,Completed,1977.0,2024,3,Mar
+TXN-10255,CUST-1110,2024-02-19 21:26:00,Sunscreen SPF 50,Beauty,2,499.0,Credit Card,Completed,998.0,2024,2,Feb
+TXN-10092,CUST-1111,2023-03-05 14:44:00,Air Fryer 4L,Home & Kitchen,5,5999.0,Cash on Delivery,Cancelled,29995.0,2023,3,Mar
+TXN-10389,CUST-1137,2024-01-10 02:35:00,Mechanical Keyboard,Electronics,5,3499.0,Cash on Delivery,Completed,17495.0,2024,1,Jan
+TXN-10084,CUST-1048,2023-04-05 01:16:00,Data Engineering Essentials,Books,4,899.0,Cash on Delivery,Completed,3596.0,2023,4,Apr
+TXN-10102,CUST-1091,2023-11-28 04:31:00,Non-Stick Frying Pan,Home & Kitchen,4,899.0,Cash on Delivery,Pending,3596.0,2023,11,Nov
+TXN-10632,CUST-1009,2024-02-28 01:56:00,Cotton T-Shirt,Clothing,5,599.0,Net Banking,Completed,2995.0,2024,2,Feb
+TXN-10128,CUST-1128,2023-02-20 21:23:00,Moisturizing Cream,Beauty,1,299.0,Net Banking,Pending,299.0,2023,2,Feb
+TXN-10161,CUST-1059,2023-07-16 14:37:00,Organic Face Wash,Beauty,4,349.0,Cash on Delivery,Pending,1396.0,2023,7,Jul
+TXN-10269,CUST-1029,2023-03-20 06:21:00,Sports Running Shoes,Clothing,2,2999.0,Cash on Delivery,Failed,5998.0,2023,3,Mar
+TXN-10362,CUST-1147,2023-06-10 13:07:00,Sunscreen SPF 50,Beauty,4,499.0,Debit Card,Cancelled,1996.0,2023,6,Jun
+TXN-10114,CUST-1093,2023-03-15 07:29:00,Air Fryer 4L,Home & Kitchen,1,5999.0,Net Banking,Pending,5999.0,2023,3,Mar
+TXN-10051,CUST-1021,2023-06-04 12:35:00,Bluetooth Speaker,Electronics,2,1999.0,Net Banking,Failed,3998.0,2023,6,Jun
+TXN-10260,CUST-1052,2023-06-26 20:42:00,Designing Data-Intensive Applications,Books,4,1200.0,Net Banking,Completed,4800.0,2023,6,Jun
+TXN-10063,CUST-1139,2023-09-06 00:24:00,Electric Coffee Maker,Home & Kitchen,4,2299.0,Credit Card,Completed,9196.0,2023,9,Sep
+TXN-10171,CUST-1078,2023-07-06 21:46:00,Sports Running Shoes,Clothing,3,2999.0,Net Banking,Pending,8997.0,2023,7,Jul
+TXN-10023,CUST-1005,2024-02-06 15:51:00,Data Engineering Essentials,Books,1,899.0,Net Banking,Failed,899.0,2024,2,Feb
+TXN-10104,CUST-1059,2023-05-17 00:18:00,Electric Coffee Maker,Home & Kitchen,4,2299.0,Cash on Delivery,Cancelled,9196.0,2023,5,May
+TXN-10554,CUST-1060,2023-11-20 04:55:00,Formal Dress Shirt,Clothing,5,1299.0,Cash on Delivery,Failed,6495.0,2023,11,Nov
+TXN-10559,CUST-1011,2023-11-13 04:05:00,Python Data Analysis Guide,Books,2,659.0,Debit Card,Cancelled,1318.0,2023,11,Nov
+TXN-10587,CUST-1118,2023-04-02 01:12:00,Smart Watch,Electronics,1,4999.0,Credit Card,Failed,4999.0,2023,4,Apr
+TXN-10133,CUST-1047,2023-09-27 03:47:00,USB-C Hub,Electronics,3,1299.0,Cash on Delivery,Completed,3897.0,2023,9,Sep
+TXN-10117,CUST-1029,2023-01-12 21:25:00,LED Desk Lamp,Home & Kitchen,1,799.0,Cash on Delivery,Pending,799.0,2023,1,Jan
+TXN-10008,CUST-1063,2023-07-01 06:42:00,LED Desk Lamp,Home & Kitchen,2,799.0,Cash on Delivery,Pending,1598.0,2023,7,Jul
+TXN-10328,CUST-1048,2023-12-16 01:02:00,Wireless Headphones,Electronics,1,2499.0,UPI,Cancelled,2499.0,2023,12,Dec
+TXN-10392,CUST-1019,2023-01-26 12:36:00,Sunscreen SPF 50,Beauty,1,499.0,Debit Card,Completed,499.0,2023,1,Jan
+TXN-10021,CUST-1007,2023-01-04 02:45:00,Wireless Headphones,Electronics,1,2499.0,Debit Card,Completed,2499.0,2023,1,Jan
+TXN-10468,CUST-1140,2023-09-25 03:01:00,Data Engineering Essentials,Books,1,899.0,UPI,Pending,899.0,2023,9,Sep
+TXN-10042,CUST-1113,2023-05-02 05:51:00,Cotton T-Shirt,Clothing,2,599.0,Debit Card,Failed,1198.0,2023,5,May
+TXN-10567,CUST-1065,2023-08-05 20:15:00,Moisturizing Cream,Beauty,3,299.0,Cash on Delivery,Pending,897.0,2023,8,Aug
+TXN-10489,CUST-1041,2023-12-13 23:41:00,LED Desk Lamp,Home & Kitchen,5,799.0,Credit Card,Completed,3995.0,2023,12,Dec
+TXN-10503,CUST-1135,2023-07-03 01:14:00,Data Engineering Essentials,Books,3,899.0,Debit Card,Pending,2697.0,2023,7,Jul
+TXN-10446,CUST-1145,2023-07-10 10:11:00,USB-C Hub,Electronics,4,1299.0,UPI,Failed,5196.0,2023,7,Jul
+TXN-10227,CUST-1148,2023-08-24 17:21:00,Moisturizing Cream,Beauty,5,299.0,Cash on Delivery,Pending,1495.0,2023,8,Aug
+TXN-10010,CUST-1080,2023-07-25 08:04:00,Slim Fit Denim Jeans,Clothing,4,1799.0,Net Banking,Cancelled,7196.0,2023,7,Jul
+TXN-10551,CUST-1018,2024-03-05 20:06:00,Designing Data-Intensive Applications,Books,3,1200.0,Debit Card,Failed,3600.0,2024,3,Mar
+TXN-10563,CUST-1017,2023-08-15 09:23:00,Python Data Analysis Guide,Books,3,659.0,Credit Card,Completed,1977.0,2023,8,Aug
+TXN-10499,CUST-1059,2023-11-20 00:52:00,Hair Nourishing Serum,Beauty,5,450.0,UPI,Completed,2250.0,2023,11,Nov
+TXN-10217,CUST-1059,2023-08-19 17:17:00,Organic Face Wash,Beauty,2,349.0,Credit Card,Failed,698.0,2023,8,Aug
+TXN-10129,CUST-1083,2023-03-04 14:05:00,Cotton T-Shirt,Clothing,3,599.0,UPI,Completed,1797.0,2023,3,Mar
+TXN-10130,CUST-1122,2023-04-16 02:53:00,Sunscreen SPF 50,Beauty,2,499.0,Debit Card,Completed,998.0,2023,4,Apr
+TXN-10191,CUST-1044,2023-03-27 22:28:00,Stainless Steel Water Bottle,Home & Kitchen,3,499.0,Net Banking,Pending,1497.0,2023,3,Mar
+TXN-10083,CUST-1077,2023-11-23 15:06:00,Bluetooth Speaker,Electronics,4,1999.0,Cash on Delivery,Cancelled,7996.0,2023,11,Nov
+TXN-10173,CUST-1121,2024-02-03 12:32:00,Sunscreen SPF 50,Beauty,2,499.0,Credit Card,Pending,998.0,2024,2,Feb
+TXN-10085,CUST-1107,2023-11-19 21:03:00,Sports Running Shoes,Clothing,3,2999.0,Credit Card,Pending,8997.0,2023,11,Nov
+TXN-10049,CUST-1116,2023-11-16 10:42:00,Mechanical Keyboard,Electronics,3,3499.0,Net Banking,Failed,10497.0,2023,11,Nov
+TXN-10017,CUST-1128,2024-03-25 09:15:00,Mechanical Keyboard,Electronics,1,3499.0,Credit Card,Cancelled,3499.0,2024,3,Mar
+TXN-10301,CUST-1013,2023-05-13 07:32:00,Sunscreen SPF 50,Beauty,4,499.0,Debit Card,Failed,1996.0,2023,5,May
+TXN-10012,CUST-1128,2023-04-23 04:32:00,Data Engineering Essentials,Books,1,899.0,Credit Card,Completed,899.0,2023,4,Apr
+TXN-10124,CUST-1136,2023-11-14 17:20:00,Organic Face Wash,Beauty,4,349.0,Debit Card,Failed,1396.0,2023,11,Nov
+TXN-10166,CUST-1093,2023-12-06 04:58:00,Non-Stick Frying Pan,Home & Kitchen,2,899.0,Credit Card,Pending,1798.0,2023,12,Dec
+TXN-10517,CUST-1145,2023-09-04 21:08:00,Organic Face Wash,Beauty,4,349.0,Cash on Delivery,Failed,1396.0,2023,9,Sep
+TXN-10473,CUST-1023,2023-05-31 14:11:00,Smart Watch,Electronics,5,4999.0,Credit Card,Failed,24995.0,2023,5,May
+TXN-10410,CUST-1082,2023-12-30 16:25:00,Slim Fit Denim Jeans,Clothing,2,1799.0,UPI,Completed,3598.0,2023,12,Dec
+TXN-10183,CUST-1054,2024-03-23 15:02:00,Designing Data-Intensive Applications,Books,1,1200.0,Debit Card,Completed,1200.0,2024,3,Mar
+TXN-10432,CUST-1056,2023-11-17 23:15:00,Casual Hooded Sweatshirt,Clothing,2,1499.0,Credit Card,Failed,2998.0,2023,11,Nov
+TXN-10015,CUST-1009,2023-01-02 23:56:00,LED Desk Lamp,Home & Kitchen,1,799.0,Debit Card,Pending,799.0,2023,1,Jan
+TXN-10581,CUST-1142,2023-07-03 23:08:00,Non-Stick Frying Pan,Home & Kitchen,4,899.0,Cash on Delivery,Pending,3596.0,2023,7,Jul
+TXN-10007,CUST-1065,2024-03-13 07:55:00,Bluetooth Speaker,Electronics,4,1999.0,Debit Card,Completed,7996.0,2024,3,Mar
+TXN-10371,CUST-1131,2023-09-03 01:05:00,Electric Coffee Maker,Home & Kitchen,4,2299.0,UPI,Pending,9196.0,2023,9,Sep
+TXN-10293,CUST-1071,2024-02-22 20:38:00,Casual Hooded Sweatshirt,Clothing,5,1499.0,UPI,Cancelled,7495.0,2024,2,Feb
+TXN-10252,CUST-1142,2023-11-02 21:42:00,Moisturizing Cream,Beauty,1,299.0,UPI,Failed,299.0,2023,11,Nov
+TXN-10433,CUST-1051,2023-10-29 09:10:00,Bluetooth Speaker,Electronics,3,1999.0,Net Banking,Failed,5997.0,2023,10,Oct
+TXN-10588,CUST-1064,2023-09-27 19:44:00,Organic Face Wash,Beauty,3,349.0,UPI,Completed,1047.0,2023,9,Sep
+TXN-10174,CUST-1016,2023-11-25 15:55:00,LED Desk Lamp,Home & Kitchen,1,799.0,Debit Card,Completed,799.0,2023,11,Nov
+TXN-10353,CUST-1127,2023-04-25 16:02:00,SQL Query Optimization,Books,3,750.0,Debit Card,Failed,2250.0,2023,4,Apr
+TXN-10599,CUST-1072,2023-07-24 18:58:00,Casual Hooded Sweatshirt,Clothing,4,1499.0,UPI,Cancelled,5996.0,2023,7,Jul
+TXN-10159,CUST-1031,2023-08-29 14:40:00,LED Desk Lamp,Home & Kitchen,1,799.0,Debit Card,Completed,799.0,2023,8,Aug
+TXN-10478,CUST-1069,2023-12-06 10:21:00,Electric Coffee Maker,Home & Kitchen,5,2299.0,Cash on Delivery,Cancelled,11495.0,2023,12,Dec
+TXN-10305,CUST-1041,2023-01-23 22:07:00,Gaming Mouse,Electronics,1,1599.0,UPI,Pending,1599.0,2023,1,Jan
+TXN-10146,CUST-1047,2023-08-21 10:10:00,Air Fryer 4L,Home & Kitchen,5,5999.0,Credit Card,Completed,29995.0,2023,8,Aug
+TXN-10003,CUST-1150,2023-08-03 07:28:00,Organic Face Wash,Beauty,2,349.0,Net Banking,Failed,698.0,2023,8,Aug
+TXN-10141,CUST-1133,2023-07-30 11:55:00,Data Engineering Essentials,Books,3,899.0,Debit Card,Failed,2697.0,2023,7,Jul
+TXN-10172,CUST-1103,2023-05-03 09:51:00,Designing Data-Intensive Applications,Books,5,1200.0,Net Banking,Cancelled,6000.0,2023,5,May
+TXN-10226,CUST-1030,2023-12-28 04:33:00,Formal Dress Shirt,Clothing,5,1299.0,Net Banking,Failed,6495.0,2023,12,Dec
+TXN-10267,CUST-1024,2023-05-14 11:32:00,Data Engineering Essentials,Books,4,899.0,Debit Card,Pending,3596.0,2023,5,May
+TXN-10272,CUST-1056,2023-07-31 04:53:00,Slim Fit Denim Jeans,Clothing,1,1799.0,UPI,Cancelled,1799.0,2023,7,Jul
+TXN-10062,CUST-1056,2023-06-30 09:48:00,Python Data Analysis Guide,Books,4,659.0,UPI,Pending,2636.0,2023,6,Jun
+TXN-10636,CUST-1136,2023-04-02 14:37:00,Cotton T-Shirt,Clothing,3,599.0,Debit Card,Completed,1797.0,2023,4,Apr
+TXN-10624,CUST-1037,2023-06-12 04:46:00,USB-C Hub,Electronics,4,1299.0,Debit Card,Cancelled,5196.0,2023,6,Jun
+TXN-10416,CUST-1068,2023-11-08 09:45:00,Non-Stick Frying Pan,Home & Kitchen,3,899.0,Net Banking,Pending,2697.0,2023,11,Nov
+TXN-10505,CUST-1097,2023-02-22 22:33:00,LED Desk Lamp,Home & Kitchen,5,799.0,Cash on Delivery,Completed,3995.0,2023,2,Feb
+TXN-10611,CUST-1003,2024-03-20 09:00:00,Air Fryer 4L,Home & Kitchen,4,5999.0,Cash on Delivery,Completed,23996.0,2024,3,Mar
+TXN-10345,CUST-1009,2023-11-10 19:03:00,Stainless Steel Water Bottle,Home & Kitchen,1,499.0,Credit Card,Completed,499.0,2023,11,Nov
+TXN-10497,CUST-1060,2023-08-17 11:49:00,LED Desk Lamp,Home & Kitchen,1,799.0,UPI,Completed,799.0,2023,8,Aug
+TXN-10602,CUST-1057,2023-11-21 20:24:00,Mechanical Keyboard,Electronics,1,3499.0,Debit Card,Completed,3499.0,2023,11,Nov
+TXN-10157,CUST-1115,2023-03-16 08:12:00,Cotton T-Shirt,Clothing,2,599.0,Cash on Delivery,Cancelled,1198.0,2023,3,Mar
+TXN-10111,CUST-1139,2023-02-20 20:45:00,Smart Watch,Electronics,3,4999.0,Credit Card,Completed,14997.0,2023,2,Feb
+TXN-10539,CUST-1039,2024-01-12 07:55:00,Electric Coffee Maker,Home & Kitchen,2,2299.0,UPI,Failed,4598.0,2024,1,Jan
+TXN-10187,CUST-1150,2023-08-31 08:02:00,Casual Hooded Sweatshirt,Clothing,1,1499.0,Debit Card,Pending,1499.0,2023,8,Aug
+TXN-10011,CUST-1043,2023-05-16 04:15:00,Moisturizing Cream,Beauty,5,299.0,Net Banking,Failed,1495.0,2023,5,May
+TXN-10178,CUST-1045,2024-02-29 15:44:00,Formal Dress Shirt,Clothing,5,1299.0,Credit Card,Completed,6495.0,2024,2,Feb
+TXN-10531,CUST-1050,2023-10-28 06:33:00,Wireless Headphones,Electronics,5,2499.0,Debit Card,Failed,12495.0,2023,10,Oct
+TXN-10431,CUST-1109,2023-10-01 06:46:00,Air Fryer 4L,Home & Kitchen,5,5999.0,UPI,Completed,29995.0,2023,10,Oct
+TXN-10235,CUST-1072,2023-04-29 17:47:00,USB-C Hub,Electronics,2,1299.0,Credit Card,Failed,2598.0,2023,4,Apr
+TXN-10358,CUST-1149,2024-03-08 16:26:00,Stainless Steel Water Bottle,Home & Kitchen,5,499.0,Credit Card,Completed,2495.0,2024,3,Mar
+TXN-10492,CUST-1023,2023-02-28 05:42:00,Hair Nourishing Serum,Beauty,5,450.0,Credit Card,Pending,2250.0,2023,2,Feb
+TXN-10338,CUST-1026,2023-04-16 16:38:00,Hair Nourishing Serum,Beauty,3,450.0,Credit Card,Pending,1350.0,2023,4,Apr
+TXN-10219,CUST-1051,2023-01-21 01:02:00,Formal Dress Shirt,Clothing,5,1299.0,Net Banking,Completed,6495.0,2023,1,Jan
+TXN-10367,CUST-1093,2023-10-28 08:58:00,Wireless Headphones,Electronics,2,2499.0,Net Banking,Completed,4998.0,2023,10,Oct
+TXN-10526,CUST-1137,2023-07-19 20:00:00,USB-C Hub,Electronics,5,1299.0,Net Banking,Completed,6495.0,2023,7,Jul
+TXN-10469,CUST-1137,2023-05-27 21:16:00,Casual Hooded Sweatshirt,Clothing,2,1499.0,Cash on Delivery,Completed,2998.0,2023,5,May
+TXN-10098,CUST-1097,2023-03-01 12:55:00,Hair Nourishing Serum,Beauty,4,450.0,Credit Card,Pending,1800.0,2023,3,Mar
+TXN-10137,CUST-1123,2023-11-02 16:18:00,SQL Query Optimization,Books,1,750.0,Credit Card,Pending,750.0,2023,11,Nov
+TXN-10443,CUST-1049,2023-02-08 23:46:00,Gaming Mouse,Electronics,2,1599.0,Net Banking,Pending,3198.0,2023,2,Feb
+TXN-10078,CUST-1085,2023-02-17 09:14:00,Python Data Analysis Guide,Books,3,659.0,Cash on Delivery,Failed,1977.0,2023,2,Feb
+TXN-10312,CUST-1043,2023-09-19 12:26:00,Hair Nourishing Serum,Beauty,4,450.0,UPI,Cancelled,1800.0,2023,9,Sep
+TXN-10103,CUST-1009,2023-10-10 04:24:00,Cotton T-Shirt,Clothing,3,599.0,Net Banking,Failed,1797.0,2023,10,Oct
+TXN-10199,CUST-1049,2023-04-25 03:12:00,Formal Dress Shirt,Clothing,1,1299.0,Debit Card,Failed,1299.0,2023,4,Apr
+TXN-10204,CUST-1097,2023-12-30 07:22:00,Organic Face Wash,Beauty,3,349.0,UPI,Pending,1047.0,2023,12,Dec
+TXN-10332,CUST-1028,2023-09-23 21:28:00,Gaming Mouse,Electronics,3,1599.0,Credit Card,Failed,4797.0,2023,9,Sep
+TXN-10573,CUST-1067,2023-04-09 08:52:00,Data Engineering Essentials,Books,2,899.0,Net Banking,Cancelled,1798.0,2023,4,Apr
+TXN-10194,CUST-1090,2023-07-09 11:28:00,Smart Watch,Electronics,5,4999.0,Debit Card,Failed,24995.0,2023,7,Jul
+TXN-10648,CUST-1012,2023-10-11 01:06:00,Organic Face Wash,Beauty,4,349.0,Debit Card,Failed,1396.0,2023,10,Oct
+TXN-10165,CUST-1019,2023-10-13 21:24:00,LED Desk Lamp,Home & Kitchen,2,799.0,Debit Card,Completed,1598.0,2023,10,Oct
+TXN-10357,CUST-1099,2023-09-29 07:26:00,Python Data Analysis Guide,Books,3,659.0,Credit Card,Completed,1977.0,2023,9,Sep
+TXN-10448,CUST-1035,2023-10-30 15:51:00,Hair Nourishing Serum,Beauty,2,450.0,Net Banking,Failed,900.0,2023,10,Oct
+TXN-10396,CUST-1084,2023-01-23 08:28:00,Python Data Analysis Guide,Books,3,659.0,Cash on Delivery,Completed,1977.0,2023,1,Jan
+TXN-10054,CUST-1005,2023-01-09 19:54:00,USB-C Hub,Electronics,5,1299.0,UPI,Failed,6495.0,2023,1,Jan
+TXN-10258,CUST-1107,2023-11-03 21:52:00,Air Fryer 4L,Home & Kitchen,2,5999.0,Cash on Delivery,Pending,11998.0,2023,11,Nov
+TXN-10164,CUST-1134,2023-07-10 09:24:00,Data Engineering Essentials,Books,3,899.0,Credit Card,Failed,2697.0,2023,7,Jul
+TXN-10186,CUST-1014,2023-01-19 09:12:00,Wireless Headphones,Electronics,3,2499.0,Debit Card,Failed,7497.0,2023,1,Jan
+TXN-10113,CUST-1122,2023-12-16 05:10:00,Sports Running Shoes,Clothing,4,2999.0,UPI,Cancelled,11996.0,2023,12,Dec
+TXN-10438,CUST-1123,2023-03-05 17:16:00,Python Data Analysis Guide,Books,2,659.0,Credit Card,Pending,1318.0,2023,3,Mar
+TXN-10099,CUST-1022,2023-07-05 19:48:00,SQL Query Optimization,Books,1,750.0,UPI,Pending,750.0,2023,7,Jul
+TXN-10576,CUST-1068,2023-04-09 20:19:00,Cotton T-Shirt,Clothing,2,599.0,Credit Card,Pending,1198.0,2023,4,Apr
+TXN-10401,CUST-1008,2023-02-10 21:27:00,Sports Running Shoes,Clothing,3,2999.0,Debit Card,Completed,8997.0,2023,2,Feb
+TXN-10193,CUST-1110,2023-03-06 02:15:00,Non-Stick Frying Pan,Home & Kitchen,5,899.0,Credit Card,Completed,4495.0,2023,3,Mar
+TXN-10127,CUST-1064,2023-11-12 13:17:00,Smart Watch,Electronics,4,4999.0,Net Banking,Pending,19996.0,2023,11,Nov
+TXN-10121,CUST-1029,2024-01-18 10:51:00,Wireless Headphones,Electronics,2,2499.0,UPI,Failed,4998.0,2024,1,Jan
+TXN-10313,CUST-1002,2023-12-22 20:59:00,Formal Dress Shirt,Clothing,3,1299.0,Credit Card,Completed,3897.0,2023,12,Dec
+TXN-10309,CUST-1134,2023-06-16 06:29:00,Gaming Mouse,Electronics,4,1599.0,Cash on Delivery,Failed,6396.0,2023,6,Jun
+TXN-10568,CUST-1078,2023-04-07 02:11:00,Cotton T-Shirt,Clothing,4,599.0,Net Banking,Pending,2396.0,2023,4,Apr
+TXN-10596,CUST-1110,2023-05-26 19:01:00,Moisturizing Cream,Beauty,1,299.0,Debit Card,Pending,299.0,2023,5,May
+TXN-10502,CUST-1042,2024-03-10 19:43:00,Formal Dress Shirt,Clothing,2,1299.0,UPI,Completed,2598.0,2024,3,Mar
+TXN-10533,CUST-1124,2023-03-31 13:32:00,Wireless Headphones,Electronics,5,2499.0,Debit Card,Failed,12495.0,2023,3,Mar
+TXN-10464,CUST-1047,2023-11-08 22:48:00,Formal Dress Shirt,Clothing,3,1299.0,Debit Card,Cancelled,3897.0,2023,11,Nov
+TXN-10598,CUST-1113,2023-03-12 08:23:00,Sunscreen SPF 50,Beauty,3,499.0,Debit Card,Completed,1497.0,2023,3,Mar
+TXN-10205,CUST-1077,2023-11-17 09:39:00,Sunscreen SPF 50,Beauty,5,499.0,Cash on Delivery,Completed,2495.0,2023,11,Nov
+TXN-10427,CUST-1123,2023-09-29 09:26:00,Smart Watch,Electronics,2,4999.0,Debit Card,Failed,9998.0,2023,9,Sep
+TXN-10061,CUST-1035,2023-02-01 06:53:00,Data Engineering Essentials,Books,5,899.0,Net Banking,Cancelled,4495.0,2023,2,Feb
+TXN-10629,CUST-1078,2023-04-24 23:42:00,Cotton T-Shirt,Clothing,2,599.0,Net Banking,Cancelled,1198.0,2023,4,Apr
+TXN-10067,CUST-1028,2023-11-29 02:49:00,Smart Watch,Electronics,2,4999.0,Credit Card,Completed,9998.0,2023,11,Nov
+TXN-10276,CUST-1034,2023-05-17 12:05:00,Non-Stick Frying Pan,Home & Kitchen,5,899.0,UPI,Pending,4495.0,2023,5,May
+TXN-10386,CUST-1111,2024-01-11 13:10:00,SQL Query Optimization,Books,3,750.0,Cash on Delivery,Failed,2250.0,2024,1,Jan
+TXN-10614,CUST-1027,2023-01-31 09:12:00,Organic Face Wash,Beauty,4,349.0,Credit Card,Completed,1396.0,2023,1,Jan
+TXN-10618,CUST-1064,2023-07-21 23:10:00,Gaming Mouse,Electronics,3,1599.0,Debit Card,Pending,4797.0,2023,7,Jul
+TXN-10169,CUST-1113,2023-02-09 09:54:00,Mechanical Keyboard,Electronics,5,3499.0,Credit Card,Failed,17495.0,2023,2,Feb
+TXN-10536,CUST-1032,2023-05-13 02:24:00,Casual Hooded Sweatshirt,Clothing,4,1499.0,Debit Card,Completed,5996.0,2023,5,May
+TXN-10557,CUST-1079,2023-03-06 23:15:00,Electric Coffee Maker,Home & Kitchen,2,2299.0,Net Banking,Completed,4598.0,2023,3,Mar
+TXN-10545,CUST-1037,2023-10-08 08:15:00,LED Desk Lamp,Home & Kitchen,3,799.0,Debit Card,Completed,2397.0,2023,10,Oct
+TXN-10029,CUST-1083,2023-06-01 06:03:00,Organic Face Wash,Beauty,3,349.0,Credit Card,Completed,1047.0,2023,6,Jun
+TXN-10382,CUST-1024,2024-01-11 22:18:00,Cotton T-Shirt,Clothing,5,599.0,Net Banking,Completed,2995.0,2024,1,Jan
+TXN-10218,CUST-1104,2024-02-11 10:35:00,Electric Coffee Maker,Home & Kitchen,5,2299.0,Cash on Delivery,Failed,11495.0,2024,2,Feb
+TXN-10334,CUST-1041,2023-03-12 12:49:00,Cotton T-Shirt,Clothing,5,599.0,Cash on Delivery,Completed,2995.0,2023,3,Mar
+TXN-10253,CUST-1038,2023-03-07 23:14:00,Bluetooth Speaker,Electronics,4,1999.0,Cash on Delivery,Failed,7996.0,2023,3,Mar
+TXN-10436,CUST-1134,2023-12-31 20:50:00,Gaming Mouse,Electronics,3,1599.0,Cash on Delivery,Completed,4797.0,2023,12,Dec
+TXN-10470,CUST-1120,2024-02-21 14:06:00,Sunscreen SPF 50,Beauty,5,499.0,Net Banking,Pending,2495.0,2024,2,Feb
+TXN-10311,CUST-1020,2023-12-11 04:20:00,Bluetooth Speaker,Electronics,1,1999.0,UPI,Failed,1999.0,2023,12,Dec
+TXN-10355,CUST-1060,2023-07-08 18:31:00,Slim Fit Denim Jeans,Clothing,1,1799.0,Net Banking,Completed,1799.0,2023,7,Jul
+TXN-10201,CUST-1073,2023-09-27 13:49:00,Data Engineering Essentials,Books,2,899.0,Debit Card,Completed,1798.0,2023,9,Sep
+TXN-10317,CUST-1027,2024-02-04 14:36:00,Data Engineering Essentials,Books,5,899.0,Credit Card,Pending,4495.0,2024,2,Feb
+TXN-10346,CUST-1137,2023-09-12 11:33:00,Moisturizing Cream,Beauty,2,299.0,Debit Card,Completed,598.0,2023,9,Sep
+TXN-10043,CUST-1033,2023-05-17 05:50:00,Wireless Headphones,Electronics,4,2499.0,UPI,Pending,9996.0,2023,5,May
+TXN-10249,CUST-1024,2024-01-06 00:25:00,Electric Coffee Maker,Home & Kitchen,5,2299.0,Credit Card,Completed,11495.0,2024,1,Jan
+TXN-10601,CUST-1065,2024-02-04 01:58:00,Non-Stick Frying Pan,Home & Kitchen,4,899.0,Credit Card,Pending,3596.0,2024,2,Feb
+TXN-10014,CUST-1032,2023-12-16 17:48:00,Stainless Steel Water Bottle,Home & Kitchen,3,499.0,Net Banking,Completed,1497.0,2023,12,Dec
+TXN-10407,CUST-1144,2024-02-23 09:19:00,Stainless Steel Water Bottle,Home & Kitchen,2,499.0,Credit Card,Pending,998.0,2024,2,Feb
+TXN-10027,CUST-1039,2023-03-27 13:31:00,SQL Query Optimization,Books,1,750.0,UPI,Failed,750.0,2023,3,Mar
+TXN-10087,CUST-1092,2023-06-02 18:27:00,LED Desk Lamp,Home & Kitchen,1,799.0,UPI,Pending,799.0,2023,6,Jun
+TXN-10243,CUST-1050,2023-12-18 16:59:00,Air Fryer 4L,Home & Kitchen,3,5999.0,UPI,Pending,17997.0,2023,12,Dec
+TXN-10383,CUST-1067,2023-11-05 10:58:00,Organic Face Wash,Beauty,4,349.0,Credit Card,Failed,1396.0,2023,11,Nov
+TXN-10547,CUST-1072,2023-03-09 18:43:00,Casual Hooded Sweatshirt,Clothing,2,1499.0,Cash on Delivery,Failed,2998.0,2023,3,Mar
+TXN-10428,CUST-1021,2023-08-23 04:20:00,Formal Dress Shirt,Clothing,3,1299.0,UPI,Failed,3897.0,2023,8,Aug
+TXN-10019,CUST-1038,2024-03-22 19:27:00,Casual Hooded Sweatshirt,Clothing,4,1499.0,Debit Card,Cancelled,5996.0,2024,3,Mar
+TXN-10086,CUST-1091,2023-10-13 13:38:00,Sunscreen SPF 50,Beauty,5,499.0,Net Banking,Cancelled,2495.0,2023,10,Oct
+TXN-10149,CUST-1143,2023-09-27 21:19:00,USB-C Hub,Electronics,5,1299.0,Credit Card,Completed,6495.0,2023,9,Sep
+TXN-10617,CUST-1094,2023-09-14 14:35:00,Smart Watch,Electronics,5,4999.0,Debit Card,Failed,24995.0,2023,9,Sep
+TXN-10181,CUST-1002,2023-01-09 20:32:00,Sunscreen SPF 50,Beauty,3,499.0,Net Banking,Completed,1497.0,2023,1,Jan
+TXN-10216,CUST-1004,2023-01-27 18:35:00,Sports Running Shoes,Clothing,3,2999.0,Credit Card,Failed,8997.0,2023,1,Jan
+TXN-10458,CUST-1134,2024-01-02 14:07:00,Wireless Headphones,Electronics,3,2499.0,Debit Card,Pending,7497.0,2024,1,Jan
+TXN-10263,CUST-1099,2023-06-19 20:05:00,Data Engineering Essentials,Books,5,899.0,UPI,Completed,4495.0,2023,6,Jun
+TXN-10415,CUST-1089,2023-01-11 21:00:00,Python Data Analysis Guide,Books,5,659.0,Credit Card,Pending,3295.0,2023,1,Jan
+TXN-10241,CUST-1056,2023-05-14 12:15:00,Designing Data-Intensive Applications,Books,3,1200.0,Cash on Delivery,Completed,3600.0,2023,5,May
+TXN-10359,CUST-1006,2023-02-08 18:36:00,Gaming Mouse,Electronics,2,1599.0,UPI,Pending,3198.0,2023,2,Feb
+TXN-10274,CUST-1140,2023-01-09 16:46:00,Stainless Steel Water Bottle,Home & Kitchen,5,499.0,Net Banking,Completed,2495.0,2023,1,Jan
+TXN-10459,CUST-1131,2023-09-25 11:44:00,Smart Watch,Electronics,4,4999.0,Credit Card,Failed,19996.0,2023,9,Sep
+TXN-10380,CUST-1126,2023-10-28 03:21:00,Electric Coffee Maker,Home & Kitchen,2,2299.0,Net Banking,Cancelled,4598.0,2023,10,Oct
+TXN-10277,CUST-1041,2023-12-17 02:41:00,USB-C Hub,Electronics,4,1299.0,Net Banking,Cancelled,5196.0,2023,12,Dec
+TXN-10571,CUST-1096,2023-01-08 15:13:00,Air Fryer 4L,Home & Kitchen,4,5999.0,Debit Card,Cancelled,23996.0,2023,1,Jan
+TXN-10126,CUST-1002,2023-11-03 12:29:00,LED Desk Lamp,Home & Kitchen,2,799.0,Net Banking,Completed,1598.0,2023,11,Nov
+TXN-10391,CUST-1099,2023-04-08 13:44:00,Moisturizing Cream,Beauty,3,299.0,Debit Card,Pending,897.0,2023,4,Apr
+TXN-10268,CUST-1063,2023-06-10 13:02:00,Sunscreen SPF 50,Beauty,1,499.0,UPI,Failed,499.0,2023,6,Jun
+TXN-10297,CUST-1076,2023-11-21 09:15:00,Non-Stick Frying Pan,Home & Kitchen,4,899.0,Credit Card,Cancelled,3596.0,2023,11,Nov
+TXN-10518,CUST-1063,2024-03-23 01:44:00,Sunscreen SPF 50,Beauty,4,499.0,Net Banking,Failed,1996.0,2024,3,Mar
+TXN-10239,CUST-1029,2023-10-18 21:48:00,Sports Running Shoes,Clothing,4,2999.0,Net Banking,Failed,11996.0,2023,10,Oct
+TXN-10144,CUST-1117,2023-01-15 05:17:00,Air Fryer 4L,Home & Kitchen,1,5999.0,UPI,Completed,5999.0,2023,1,Jan
+TXN-10041,CUST-1024,2023-07-06 01:57:00,Electric Coffee Maker,Home & Kitchen,1,2299.0,Debit Card,Failed,2299.0,2023,7,Jul
+TXN-10430,CUST-1118,2023-11-11 13:40:00,SQL Query Optimization,Books,4,750.0,Net Banking,Completed,3000.0,2023,11,Nov
+TXN-10507,CUST-1028,2023-09-22 12:22:00,Non-Stick Frying Pan,Home & Kitchen,5,899.0,Credit Card,Completed,4495.0,2023,9,Sep
+TXN-10189,CUST-1108,2023-12-21 15:23:00,Organic Face Wash,Beauty,4,349.0,Credit Card,Failed,1396.0,2023,12,Dec
+TXN-10248,CUST-1049,2023-08-17 01:29:00,Formal Dress Shirt,Clothing,5,1299.0,Credit Card,Cancelled,6495.0,2023,8,Aug
+TXN-10461,CUST-1144,2023-02-25 13:02:00,Hair Nourishing Serum,Beauty,4,450.0,Cash on Delivery,Completed,1800.0,2023,2,Feb
+TXN-10122,CUST-1088,2023-07-07 02:50:00,Designing Data-Intensive Applications,Books,5,1200.0,Credit Card,Cancelled,6000.0,2023,7,Jul
+TXN-10018,CUST-1031,2024-01-25 17:49:00,Formal Dress Shirt,Clothing,5,1299.0,UPI,Pending,6495.0,2024,1,Jan
+TXN-10515,CUST-1142,2023-07-17 04:06:00,Mechanical Keyboard,Electronics,5,3499.0,Net Banking,Completed,17495.0,2023,7,Jul
+TXN-10413,CUST-1100,2023-06-29 11:10:00,Air Fryer 4L,Home & Kitchen,1,5999.0,Net Banking,Completed,5999.0,2023,6,Jun
+TXN-10370,CUST-1129,2023-08-17 04:02:00,Sunscreen SPF 50,Beauty,3,499.0,Cash on Delivery,Failed,1497.0,2023,8,Aug
+TXN-10597,CUST-1069,2024-03-14 10:01:00,Stainless Steel Water Bottle,Home & Kitchen,1,499.0,Net Banking,Failed,499.0,2024,3,Mar
+TXN-10138,CUST-1071,2023-08-20 07:26:00,Non-Stick Frying Pan,Home & Kitchen,4,899.0,Credit Card,Failed,3596.0,2023,8,Aug
+TXN-10257,CUST-1149,2023-10-04 06:48:00,Mechanical Keyboard,Electronics,3,3499.0,UPI,Failed,10497.0,2023,10,Oct
+TXN-10256,CUST-1110,2023-08-17 19:43:00,Gaming Mouse,Electronics,1,1599.0,Net Banking,Cancelled,1599.0,2023,8,Aug
+TXN-10460,CUST-1010,2023-05-11 19:12:00,Formal Dress Shirt,Clothing,2,1299.0,Net Banking,Pending,2598.0,2023,5,May
+TXN-10004,CUST-1129,2023-03-21 06:48:00,Stainless Steel Water Bottle,Home & Kitchen,4,499.0,Credit Card,Failed,1996.0,2023,3,Mar
+TXN-10641,CUST-1108,2024-03-13 15:34:00,USB-C Hub,Electronics,2,1299.0,UPI,Cancelled,2598.0,2024,3,Mar
+TXN-10116,CUST-1094,2023-07-16 15:06:00,Sports Running Shoes,Clothing,3,2999.0,Cash on Delivery,Pending,8997.0,2023,7,Jul
+TXN-10182,CUST-1034,2023-05-04 18:26:00,Sports Running Shoes,Clothing,3,2999.0,Credit Card,Completed,8997.0,2023,5,May
+TXN-10231,CUST-1092,2023-12-02 08:47:00,Python Data Analysis Guide,Books,5,659.0,UPI,Pending,3295.0,2023,12,Dec
+TXN-10283,CUST-1139,2023-04-29 02:21:00,Hair Nourishing Serum,Beauty,3,450.0,Credit Card,Pending,1350.0,2023,4,Apr
+TXN-10316,CUST-1146,2023-02-12 18:01:00,Cotton T-Shirt,Clothing,3,599.0,UPI,Pending,1797.0,2023,2,Feb
+TXN-10635,CUST-1067,2024-02-03 18:57:00,Hair Nourishing Serum,Beauty,4,450.0,Debit Card,Cancelled,1800.0,2024,2,Feb
+TXN-10233,CUST-1149,2023-01-27 03:26:00,Stainless Steel Water Bottle,Home & Kitchen,2,499.0,Credit Card,Completed,998.0,2023,1,Jan
+TXN-10093,CUST-1111,2023-02-11 19:02:00,Designing Data-Intensive Applications,Books,5,1200.0,UPI,Completed,6000.0,2023,2,Feb
+TXN-10406,CUST-1126,2024-03-26 10:44:00,Formal Dress Shirt,Clothing,3,1299.0,Debit Card,Completed,3897.0,2024,3,Mar
+TXN-10498,CUST-1129,2024-03-15 04:57:00,Moisturizing Cream,Beauty,1,299.0,Credit Card,Completed,299.0,2024,3,Mar
+TXN-10234,CUST-1036,2023-01-12 15:30:00,Casual Hooded Sweatshirt,Clothing,3,1499.0,Credit Card,Completed,4497.0,2023,1,Jan
+TXN-10213,CUST-1108,2024-03-26 09:31:00,USB-C Hub,Electronics,5,1299.0,Net Banking,Pending,6495.0,2024,3,Mar
+TXN-10578,CUST-1015,2024-02-06 22:30:00,Moisturizing Cream,Beauty,1,299.0,UPI,Completed,299.0,2024,2,Feb
+TXN-10071,CUST-1115,2023-12-23 09:54:00,Organic Face Wash,Beauty,3,349.0,Cash on Delivery,Failed,1047.0,2023,12,Dec
+TXN-10224,CUST-1003,2024-02-25 21:15:00,Gaming Mouse,Electronics,1,1599.0,UPI,Completed,1599.0,2024,2,Feb
+TXN-10337,CUST-1080,2024-02-10 04:15:00,Electric Coffee Maker,Home & Kitchen,5,2299.0,Debit Card,Completed,11495.0,2024,2,Feb
+TXN-10447,CUST-1073,2024-02-14 13:41:00,Slim Fit Denim Jeans,Clothing,1,1799.0,UPI,Completed,1799.0,2024,2,Feb
+TXN-10074,CUST-1147,2023-08-12 23:37:00,Electric Coffee Maker,Home & Kitchen,1,2299.0,UPI,Cancelled,2299.0,2023,8,Aug
+TXN-10009,CUST-1137,2023-08-25 12:17:00,Moisturizing Cream,Beauty,1,299.0,UPI,Completed,299.0,2023,8,Aug
+TXN-10485,CUST-1124,2023-07-28 12:28:00,Designing Data-Intensive Applications,Books,1,1200.0,Net Banking,Completed,1200.0,2023,7,Jul
+TXN-10006,CUST-1100,2023-05-31 20:39:00,Stainless Steel Water Bottle,Home & Kitchen,1,499.0,UPI,Pending,499.0,2023,5,May
+TXN-10069,CUST-1146,2023-11-07 19:47:00,Bluetooth Speaker,Electronics,1,1999.0,Cash on Delivery,Completed,1999.0,2023,11,Nov
+TXN-10065,CUST-1067,2023-01-26 08:24:00,Non-Stick Frying Pan,Home & Kitchen,3,899.0,Debit Card,Failed,2697.0,2023,1,Jan
+TXN-10342,CUST-1059,2023-05-27 20:45:00,Hair Nourishing Serum,Beauty,4,450.0,Credit Card,Completed,1800.0,2023,5,May
+TXN-10612,CUST-1116,2023-04-18 23:34:00,Sports Running Shoes,Clothing,5,2999.0,UPI,Cancelled,14995.0,2023,4,Apr
+TXN-10079,CUST-1018,2023-10-11 16:22:00,Designing Data-Intensive Applications,Books,3,1200.0,Net Banking,Pending,3600.0,2023,10,Oct
+TXN-10185,CUST-1034,2023-10-07 10:52:00,Formal Dress Shirt,Clothing,2,1299.0,Credit Card,Completed,2598.0,2023,10,Oct
+TXN-10441,CUST-1120,2023-12-27 13:18:00,Sports Running Shoes,Clothing,4,2999.0,UPI,Cancelled,11996.0,2023,12,Dec
+TXN-10097,CUST-1055,2023-05-28 21:25:00,Hair Nourishing Serum,Beauty,1,450.0,Debit Card,Pending,450.0,2023,5,May
+TXN-10508,CUST-1111,2023-03-26 07:04:00,Moisturizing Cream,Beauty,2,299.0,Credit Card,Completed,598.0,2023,3,Mar
+TXN-10454,CUST-1059,2023-04-25 17:41:00,Python Data Analysis Guide,Books,1,659.0,Net Banking,Cancelled,659.0,2023,4,Apr
+TXN-10543,CUST-1051,2023-06-27 12:55:00,Cotton T-Shirt,Clothing,5,599.0,Net Banking,Failed,2995.0,2023,6,Jun
+TXN-10477,CUST-1058,2023-02-04 16:10:00,SQL Query Optimization,Books,1,750.0,Debit Card,Pending,750.0,2023,2,Feb
+TXN-10364,CUST-1003,2023-02-16 22:15:00,LED Desk Lamp,Home & Kitchen,1,799.0,Debit Card,Pending,799.0,2023,2,Feb
+TXN-10435,CUST-1086,2023-04-25 23:08:00,Sports Running Shoes,Clothing,5,2999.0,UPI,Completed,14995.0,2023,4,Apr
+TXN-10637,CUST-1133,2023-02-16 03:45:00,Designing Data-Intensive Applications,Books,1,1200.0,Cash on Delivery,Failed,1200.0,2023,2,Feb
+TXN-10321,CUST-1099,2024-02-17 01:36:00,LED Desk Lamp,Home & Kitchen,5,799.0,UPI,Failed,3995.0,2024,2,Feb
+TXN-10202,CUST-1090,2023-08-27 21:33:00,LED Desk Lamp,Home & Kitchen,5,799.0,UPI,Completed,3995.0,2023,8,Aug
+TXN-10512,CUST-1124,2023-04-03 16:25:00,Organic Face Wash,Beauty,3,349.0,Credit Card,Pending,1047.0,2023,4,Apr
+TXN-10622,CUST-1099,2023-12-01 04:37:00,Sunscreen SPF 50,Beauty,2,499.0,Debit Card,Completed,998.0,2023,12,Dec
+TXN-10456,CUST-1115,2023-07-26 13:02:00,Organic Face Wash,Beauty,1,349.0,Debit Card,Pending,349.0,2023,7,Jul
+TXN-10501,CUST-1112,2023-03-10 14:32:00,Hair Nourishing Serum,Beauty,3,450.0,Cash on Delivery,Completed,1350.0,2023,3,Mar
+TXN-10057,CUST-1092,2023-11-10 23:57:00,Hair Nourishing Serum,Beauty,2,450.0,Cash on Delivery,Cancelled,900.0,2023,11,Nov
+TXN-10604,CUST-1007,2023-08-10 09:50:00,Python Data Analysis Guide,Books,3,659.0,Credit Card,Cancelled,1977.0,2023,8,Aug
+TXN-10287,CUST-1128,2024-01-25 08:06:00,Slim Fit Denim Jeans,Clothing,4,1799.0,Net Banking,Failed,7196.0,2024,1,Jan
+TXN-10361,CUST-1119,2023-04-30 02:12:00,Slim Fit Denim Jeans,Clothing,1,1799.0,UPI,Cancelled,1799.0,2023,4,Apr
+TXN-10414,CUST-1137,2024-03-13 18:49:00,Slim Fit Denim Jeans,Clothing,2,1799.0,UPI,Failed,3598.0,2024,3,Mar
+TXN-10028,CUST-1102,2023-07-19 08:59:00,SQL Query Optimization,Books,5,750.0,Cash on Delivery,Completed,3750.0,2023,7,Jul
+TXN-10282,CUST-1076,2024-02-09 22:46:00,Gaming Mouse,Electronics,3,1599.0,Credit Card,Completed,4797.0,2024,2,Feb
+TXN-10190,CUST-1067,2023-10-07 09:20:00,Bluetooth Speaker,Electronics,3,1999.0,Debit Card,Cancelled,5997.0,2023,10,Oct
+TXN-10439,CUST-1047,2023-12-05 03:42:00,Sunscreen SPF 50,Beauty,4,499.0,Credit Card,Completed,1996.0,2023,12,Dec
+TXN-10151,CUST-1056,2023-09-12 23:27:00,Formal Dress Shirt,Clothing,5,1299.0,UPI,Failed,6495.0,2023,9,Sep
+TXN-10605,CUST-1072,2024-01-17 01:35:00,Data Engineering Essentials,Books,4,899.0,Cash on Delivery,Failed,3596.0,2024,1,Jan
+TXN-10615,CUST-1054,2023-12-05 08:42:00,Stainless Steel Water Bottle,Home & Kitchen,3,499.0,Net Banking,Pending,1497.0,2023,12,Dec
+TXN-10262,CUST-1060,2023-01-30 17:26:00,Python Data Analysis Guide,Books,4,659.0,UPI,Pending,2636.0,2023,1,Jan
+TXN-10314,CUST-1080,2024-03-07 14:39:00,Wireless Headphones,Electronics,4,2499.0,Credit Card,Pending,9996.0,2024,3,Mar
+TXN-10591,CUST-1098,2023-09-23 03:06:00,Slim Fit Denim Jeans,Clothing,2,1799.0,Cash on Delivery,Pending,3598.0,2023,9,Sep
+TXN-10299,CUST-1002,2023-11-01 20:58:00,Smart Watch,Electronics,3,4999.0,UPI,Completed,14997.0,2023,11,Nov
+TXN-10589,CUST-1140,2023-04-17 20:31:00,Gaming Mouse,Electronics,1,1599.0,Debit Card,Failed,1599.0,2023,4,Apr
+TXN-10177,CUST-1065,2023-07-11 07:01:00,Air Fryer 4L,Home & Kitchen,2,5999.0,Credit Card,Completed,11998.0,2023,7,Jul
+TXN-10368,CUST-1145,2024-03-09 10:07:00,Wireless Headphones,Electronics,2,2499.0,Cash on Delivery,Failed,4998.0,2024,3,Mar
+TXN-10156,CUST-1049,2023-11-21 03:33:00,Moisturizing Cream,Beauty,3,299.0,Credit Card,Pending,897.0,2023,11,Nov
+TXN-10644,CUST-1110,2023-12-08 18:53:00,Moisturizing Cream,Beauty,1,299.0,Credit Card,Completed,299.0,2023,12,Dec
+TXN-10292,CUST-1010,2023-03-11 09:00:00,SQL Query Optimization,Books,3,750.0,Net Banking,Failed,2250.0,2023,3,Mar
+TXN-10163,CUST-1059,2023-11-27 05:02:00,Formal Dress Shirt,Clothing,5,1299.0,Cash on Delivery,Completed,6495.0,2023,11,Nov
+TXN-10606,CUST-1118,2024-01-26 04:30:00,Hair Nourishing Serum,Beauty,4,450.0,Cash on Delivery,Pending,1800.0,2024,1,Jan
+TXN-10584,CUST-1009,2023-01-01 20:32:00,Python Data Analysis Guide,Books,1,659.0,Debit Card,Pending,659.0,2023,1,Jan
+TXN-10229,CUST-1073,2023-06-28 17:59:00,Stainless Steel Water Bottle,Home & Kitchen,5,499.0,Cash on Delivery,Failed,2495.0,2023,6,Jun
+TXN-10296,CUST-1131,2023-01-14 23:29:00,Casual Hooded Sweatshirt,Clothing,1,1499.0,Net Banking,Cancelled,1499.0,2023,1,Jan
+TXN-10633,CUST-1083,2023-05-30 14:25:00,Non-Stick Frying Pan,Home & Kitchen,2,899.0,Net Banking,Pending,1798.0,2023,5,May
+TXN-10522,CUST-1093,2023-10-05 08:54:00,Moisturizing Cream,Beauty,5,299.0,UPI,Failed,1495.0,2023,10,Oct
+TXN-10232,CUST-1076,2023-02-25 19:47:00,Sunscreen SPF 50,Beauty,1,499.0,Cash on Delivery,Pending,499.0,2023,2,Feb
+TXN-10077,CUST-1022,2023-04-08 02:15:00,Python Data Analysis Guide,Books,4,659.0,Cash on Delivery,Cancelled,2636.0,2023,4,Apr
+TXN-10422,CUST-1048,2024-01-07 22:14:00,Hair Nourishing Serum,Beauty,3,450.0,Cash on Delivery,Pending,1350.0,2024,1,Jan
+TXN-10076,CUST-1087,2023-04-04 15:13:00,Air Fryer 4L,Home & Kitchen,3,5999.0,UPI,Completed,17997.0,2023,4,Apr
+TXN-10388,CUST-1110,2023-05-31 00:20:00,Stainless Steel Water Bottle,Home & Kitchen,3,499.0,UPI,Failed,1497.0,2023,5,May
+TXN-10001,CUST-1114,2023-01-13 23:17:00,Slim Fit Denim Jeans,Clothing,1,1799.0,Cash on Delivery,Completed,1799.0,2023,1,Jan
+TXN-10326,CUST-1145,2024-01-10 14:40:00,LED Desk Lamp,Home & Kitchen,4,799.0,UPI,Failed,3196.0,2024,1,Jan
+TXN-10387,CUST-1013,2024-02-29 15:50:00,Sunscreen SPF 50,Beauty,2,499.0,Net Banking,Completed,998.0,2024,2,Feb
+TXN-10298,CUST-1073,2023-10-26 12:34:00,Hair Nourishing Serum,Beauty,5,450.0,Credit Card,Failed,2250.0,2023,10,Oct
+TXN-10072,CUST-1063,2023-05-02 16:41:00,Non-Stick Frying Pan,Home & Kitchen,4,899.0,Credit Card,Failed,3596.0,2023,5,May
+TXN-10112,CUST-1087,2024-02-12 01:18:00,Non-Stick Frying Pan,Home & Kitchen,2,899.0,UPI,Failed,1798.0,2024,2,Feb
+TXN-10047,CUST-1080,2023-08-12 19:32:00,Mechanical Keyboard,Electronics,2,3499.0,UPI,Completed,6998.0,2023,8,Aug
+TXN-10645,CUST-1035,2023-04-02 05:43:00,Non-Stick Frying Pan,Home & Kitchen,5,899.0,Debit Card,Completed,4495.0,2023,4,Apr
+TXN-10514,CUST-1049,2023-05-16 05:46:00,LED Desk Lamp,Home & Kitchen,5,799.0,Credit Card,Pending,3995.0,2023,5,May
+TXN-10331,CUST-1044,2023-12-02 02:45:00,Smart Watch,Electronics,4,4999.0,Credit Card,Completed,19996.0,2023,12,Dec
+TXN-10254,CUST-1103,2023-07-14 07:15:00,Python Data Analysis Guide,Books,3,659.0,UPI,Completed,1977.0,2023,7,Jul
+TXN-10168,CUST-1085,2023-07-05 09:11:00,Formal Dress Shirt,Clothing,2,1299.0,UPI,Completed,2598.0,2023,7,Jul
+TXN-10395,CUST-1011,2023-02-16 20:34:00,Designing Data-Intensive Applications,Books,4,1200.0,Debit Card,Completed,4800.0,2023,2,Feb
+TXN-10444,CUST-1011,2023-08-26 01:06:00,Casual Hooded Sweatshirt,Clothing,3,1499.0,Debit Card,Failed,4497.0,2023,8,Aug
+TXN-10351,CUST-1134,2023-07-16 04:11:00,Gaming Mouse,Electronics,4,1599.0,UPI,Failed,6396.0,2023,7,Jul
+TXN-10541,CUST-1135,2023-07-10 19:20:00,Designing Data-Intensive Applications,Books,4,1200.0,UPI,Pending,4800.0,2023,7,Jul
+TXN-10036,CUST-1100,2023-03-06 21:06:00,Cotton T-Shirt,Clothing,1,599.0,Cash on Delivery,Completed,599.0,2023,3,Mar
+TXN-10493,CUST-1031,2023-05-09 03:12:00,Moisturizing Cream,Beauty,3,299.0,Credit Card,Pending,897.0,2023,5,May
+TXN-10608,CUST-1107,2023-02-15 03:42:00,Designing Data-Intensive Applications,Books,3,1200.0,UPI,Failed,3600.0,2023,2,Feb
+TXN-10091,CUST-1096,2023-05-17 04:04:00,Bluetooth Speaker,Electronics,5,1999.0,Cash on Delivery,Pending,9995.0,2023,5,May
+TXN-10228,CUST-1033,2023-05-23 17:19:00,Casual Hooded Sweatshirt,Clothing,2,1499.0,Cash on Delivery,Failed,2998.0,2023,5,May
+TXN-10421,CUST-1136,2023-12-02 15:18:00,Non-Stick Frying Pan,Home & Kitchen,4,899.0,Credit Card,Pending,3596.0,2023,12,Dec
+TXN-10487,CUST-1112,2024-02-07 21:19:00,Moisturizing Cream,Beauty,4,299.0,Net Banking,Failed,1196.0,2024,2,Feb
+TXN-10488,CUST-1105,2023-08-31 05:34:00,Formal Dress Shirt,Clothing,5,1299.0,Debit Card,Completed,6495.0,2023,8,Aug
+TXN-10521,CUST-1142,2023-12-02 06:44:00,Air Fryer 4L,Home & Kitchen,1,5999.0,Credit Card,Failed,5999.0,2023,12,Dec
+TXN-10306,CUST-1022,2023-03-31 17:10:00,Non-Stick Frying Pan,Home & Kitchen,2,899.0,Net Banking,Completed,1798.0,2023,3,Mar
+TXN-10304,CUST-1058,2023-09-05 11:30:00,Gaming Mouse,Electronics,4,1599.0,Debit Card,Completed,6396.0,2023,9,Sep
+TXN-10059,CUST-1045,2023-05-01 08:21:00,Electric Coffee Maker,Home & Kitchen,2,2299.0,UPI,Failed,4598.0,2023,5,May
+TXN-10511,CUST-1077,2023-10-21 18:10:00,Sports Running Shoes,Clothing,2,2999.0,Credit Card,Completed,5998.0,2023,10,Oct
+TXN-10429,CUST-1046,2023-01-03 14:17:00,Sports Running Shoes,Clothing,2,2999.0,Cash on Delivery,Completed,5998.0,2023,1,Jan
+TXN-10593,CUST-1044,2023-02-23 05:50:00,Sports Running Shoes,Clothing,3,2999.0,UPI,Cancelled,8997.0,2023,2,Feb
+TXN-10379,CUST-1003,2023-10-28 22:58:00,Sports Running Shoes,Clothing,3,2999.0,Credit Card,Failed,8997.0,2023,10,Oct
+TXN-10343,CUST-1129,2023-02-12 09:05:00,Sunscreen SPF 50,Beauty,5,499.0,Debit Card,Failed,2495.0,2023,2,Feb
+TXN-10466,CUST-1012,2023-11-16 22:18:00,Electric Coffee Maker,Home & Kitchen,5,2299.0,Cash on Delivery,Failed,11495.0,2023,11,Nov
+TXN-10553,CUST-1121,2023-07-01 10:43:00,Hair Nourishing Serum,Beauty,1,450.0,Net Banking,Pending,450.0,2023,7,Jul
+TXN-10404,CUST-1010,2023-10-16 03:50:00,Non-Stick Frying Pan,Home & Kitchen,3,899.0,Net Banking,Cancelled,2697.0,2023,10,Oct
+TXN-10223,CUST-1015,2023-10-23 07:46:00,USB-C Hub,Electronics,2,1299.0,Cash on Delivery,Failed,2598.0,2023,10,Oct
+TXN-10516,CUST-1019,2023-04-01 15:57:00,Organic Face Wash,Beauty,5,349.0,Cash on Delivery,Completed,1745.0,2023,4,Apr
+TXN-10221,CUST-1059,2024-02-29 16:34:00,Designing Data-Intensive Applications,Books,4,1200.0,Credit Card,Failed,4800.0,2024,2,Feb
+TXN-10586,CUST-1121,2023-06-15 13:41:00,Stainless Steel Water Bottle,Home & Kitchen,5,499.0,Credit Card,Completed,2495.0,2023,6,Jun
+TXN-10356,CUST-1149,2023-10-05 11:40:00,Wireless Headphones,Electronics,4,2499.0,Debit Card,Completed,9996.0,2023,10,Oct
+TXN-10417,CUST-1098,2023-08-27 09:43:00,Hair Nourishing Serum,Beauty,5,450.0,Credit Card,Completed,2250.0,2023,8,Aug
+TXN-10107,CUST-1096,2023-09-11 01:08:00,Moisturizing Cream,Beauty,1,299.0,Net Banking,Completed,299.0,2023,9,Sep
+TXN-10627,CUST-1120,2023-02-10 22:49:00,SQL Query Optimization,Books,3,750.0,UPI,Failed,2250.0,2023,2,Feb
+TXN-10197,CUST-1066,2023-03-04 04:54:00,Smart Watch,Electronics,4,4999.0,Credit Card,Failed,19996.0,2023,3,Mar
+TXN-10247,CUST-1146,2023-06-17 16:28:00,Gaming Mouse,Electronics,5,1599.0,Cash on Delivery,Completed,7995.0,2023,6,Jun
+TXN-10082,CUST-1128,2023-04-02 09:00:00,Moisturizing Cream,Beauty,1,299.0,Credit Card,Pending,299.0,2023,4,Apr
+TXN-10566,CUST-1078,2023-10-15 13:25:00,Formal Dress Shirt,Clothing,4,1299.0,UPI,Pending,5196.0,2023,10,Oct
+TXN-10524,CUST-1068,2023-06-07 18:22:00,Python Data Analysis Guide,Books,1,659.0,UPI,Cancelled,659.0,2023,6,Jun
+TXN-10123,CUST-1063,2023-12-11 23:43:00,Air Fryer 4L,Home & Kitchen,1,5999.0,UPI,Cancelled,5999.0,2023,12,Dec
+TXN-10561,CUST-1018,2023-08-28 17:59:00,Electric Coffee Maker,Home & Kitchen,5,2299.0,UPI,Cancelled,11495.0,2023,8,Aug
+TXN-10303,CUST-1029,2023-08-01 02:07:00,Casual Hooded Sweatshirt,Clothing,3,1499.0,Net Banking,Pending,4497.0,2023,8,Aug
+TXN-10577,CUST-1139,2023-06-16 00:10:00,Non-Stick Frying Pan,Home & Kitchen,2,899.0,Credit Card,Completed,1798.0,2023,6,Jun
+TXN-10504,CUST-1141,2023-09-12 06:33:00,Non-Stick Frying Pan,Home & Kitchen,4,899.0,Credit Card,Completed,3596.0,2023,9,Sep
+TXN-10273,CUST-1104,2023-01-31 19:40:00,Hair Nourishing Serum,Beauty,1,450.0,Credit Card,Failed,450.0,2023,1,Jan
+TXN-10155,CUST-1004,2023-09-26 02:25:00,Electric Coffee Maker,Home & Kitchen,3,2299.0,UPI,Completed,6897.0,2023,9,Sep
+TXN-10609,CUST-1095,2023-11-01 20:01:00,Air Fryer 4L,Home & Kitchen,5,5999.0,Net Banking,Completed,29995.0,2023,11,Nov
+TXN-10285,CUST-1020,2024-01-31 19:18:00,Cotton T-Shirt,Clothing,3,599.0,Credit Card,Failed,1797.0,2024,1,Jan
+TXN-10055,CUST-1055,2023-07-24 07:09:00,USB-C Hub,Electronics,2,1299.0,UPI,Cancelled,2598.0,2023,7,Jul
+TXN-10408,CUST-1092,2024-02-01 10:17:00,Data Engineering Essentials,Books,2,899.0,Net Banking,Pending,1798.0,2024,2,Feb
+TXN-10366,CUST-1076,2023-03-04 00:03:00,Slim Fit Denim Jeans,Clothing,4,1799.0,Debit Card,Completed,7196.0,2023,3,Mar
+TXN-10419,CUST-1070,2023-06-22 08:40:00,Air Fryer 4L,Home & Kitchen,3,5999.0,UPI,Completed,17997.0,2023,6,Jun
+TXN-10208,CUST-1026,2023-09-05 07:51:00,SQL Query Optimization,Books,1,750.0,Credit Card,Completed,750.0,2023,9,Sep
+TXN-10053,CUST-1145,2024-02-24 07:43:00,Electric Coffee Maker,Home & Kitchen,2,2299.0,Credit Card,Completed,4598.0,2024,2,Feb
+TXN-10295,CUST-1129,2024-02-23 12:23:00,Smart Watch,Electronics,5,4999.0,Cash on Delivery,Completed,24995.0,2024,2,Feb
+TXN-10620,CUST-1028,2023-03-19 10:57:00,Python Data Analysis Guide,Books,1,659.0,Net Banking,Pending,659.0,2023,3,Mar
+TXN-10179,CUST-1085,2023-05-12 06:53:00,Cotton T-Shirt,Clothing,3,599.0,UPI,Pending,1797.0,2023,5,May
+TXN-10394,CUST-1027,2023-11-23 09:05:00,Designing Data-Intensive Applications,Books,4,1200.0,Cash on Delivery,Cancelled,4800.0,2023,11,Nov
+TXN-10434,CUST-1139,2023-12-18 04:21:00,Python Data Analysis Guide,Books,2,659.0,Net Banking,Completed,1318.0,2023,12,Dec
+TXN-10237,CUST-1081,2023-05-26 14:41:00,Hair Nourishing Serum,Beauty,2,450.0,Cash on Delivery,Cancelled,900.0,2023,5,May
+TXN-10246,CUST-1122,2023-02-27 01:53:00,Sunscreen SPF 50,Beauty,5,499.0,Cash on Delivery,Completed,2495.0,2023,2,Feb
+TXN-10619,CUST-1039,2023-09-14 08:51:00,USB-C Hub,Electronics,1,1299.0,Cash on Delivery,Pending,1299.0,2023,9,Sep
+TXN-10626,CUST-1136,2024-01-26 19:39:00,LED Desk Lamp,Home & Kitchen,2,799.0,UPI,Completed,1598.0,2024,1,Jan
+TXN-10034,CUST-1122,2023-02-21 02:34:00,Slim Fit Denim Jeans,Clothing,3,1799.0,Credit Card,Pending,5397.0,2023,2,Feb
+TXN-10564,CUST-1058,2024-02-22 04:22:00,LED Desk Lamp,Home & Kitchen,1,799.0,Cash on Delivery,Cancelled,799.0,2024,2,Feb
+TXN-10465,CUST-1101,2023-03-12 13:38:00,Moisturizing Cream,Beauty,5,299.0,UPI,Pending,1495.0,2023,3,Mar
+TXN-10333,CUST-1118,2023-09-02 02:14:00,Data Engineering Essentials,Books,1,899.0,Debit Card,Failed,899.0,2023,9,Sep
+TXN-10188,CUST-1133,2024-02-14 11:27:00,SQL Query Optimization,Books,4,750.0,Debit Card,Completed,3000.0,2024,2,Feb
+TXN-10373,CUST-1054,2023-05-19 05:01:00,Stainless Steel Water Bottle,Home & Kitchen,3,499.0,Credit Card,Cancelled,1497.0,2023,5,May
+TXN-10265,CUST-1073,2023-04-17 10:19:00,Smart Watch,Electronics,1,4999.0,Cash on Delivery,Pending,4999.0,2023,4,Apr
+TXN-10148,CUST-1035,2023-05-20 06:48:00,Moisturizing Cream,Beauty,4,299.0,Credit Card,Pending,1196.0,2023,5,May
+TXN-10230,CUST-1126,2024-02-24 11:49:00,Cotton T-Shirt,Clothing,3,599.0,Credit Card,Failed,1797.0,2024,2,Feb
+TXN-10238,CUST-1119,2023-04-09 03:21:00,Casual Hooded Sweatshirt,Clothing,2,1499.0,Credit Card,Failed,2998.0,2023,4,Apr
+TXN-10482,CUST-1019,2023-03-27 17:34:00,Smart Watch,Electronics,2,4999.0,Net Banking,Completed,9998.0,2023,3,Mar
+TXN-10530,CUST-1128,2023-05-03 20:00:00,Casual Hooded Sweatshirt,Clothing,4,1499.0,Debit Card,Failed,5996.0,2023,5,May
+TXN-10603,CUST-1087,2023-09-15 22:14:00,Formal Dress Shirt,Clothing,4,1299.0,Cash on Delivery,Completed,5196.0,2023,9,Sep
+TXN-10467,CUST-1032,2024-01-25 11:35:00,SQL Query Optimization,Books,5,750.0,Debit Card,Failed,3750.0,2024,1,Jan
+TXN-10096,CUST-1145,2023-08-29 11:26:00,Stainless Steel Water Bottle,Home & Kitchen,2,499.0,Debit Card,Failed,998.0,2023,8,Aug
+TXN-10081,CUST-1023,2023-04-21 23:30:00,Stainless Steel Water Bottle,Home & Kitchen,2,499.0,Debit Card,Pending,998.0,2023,4,Apr
+TXN-10203,CUST-1071,2023-09-15 01:53:00,Smart Watch,Electronics,3,4999.0,UPI,Completed,14997.0,2023,9,Sep
+TXN-10580,CUST-1077,2023-09-07 07:20:00,Moisturizing Cream,Beauty,4,299.0,UPI,Completed,1196.0,2023,9,Sep
+TXN-10365,CUST-1148,2023-01-16 12:54:00,Python Data Analysis Guide,Books,1,659.0,Net Banking,Completed,659.0,2023,1,Jan
+TXN-10457,CUST-1009,2023-06-24 11:52:00,USB-C Hub,Electronics,3,1299.0,Cash on Delivery,Cancelled,3897.0,2023,6,Jun
+TXN-10184,CUST-1095,2023-05-04 23:42:00,Gaming Mouse,Electronics,3,1599.0,Credit Card,Completed,4797.0,2023,5,May
+TXN-10402,CUST-1017,2023-07-18 17:25:00,Moisturizing Cream,Beauty,5,299.0,Net Banking,Completed,1495.0,2023,7,Jul
+TXN-10437,CUST-1052,2023-12-05 03:41:00,Gaming Mouse,Electronics,1,1599.0,Net Banking,Cancelled,1599.0,2023,12,Dec
+TXN-10628,CUST-1064,2023-08-31 04:10:00,Cotton T-Shirt,Clothing,4,599.0,Credit Card,Pending,2396.0,2023,8,Aug
+TXN-10056,CUST-1052,2023-10-13 07:58:00,Smart Watch,Electronics,4,4999.0,Cash on Delivery,Failed,19996.0,2023,10,Oct
+TXN-10393,CUST-1044,2023-02-14 09:52:00,Sunscreen SPF 50,Beauty,1,499.0,Credit Card,Pending,499.0,2023,2,Feb
+TXN-10109,CUST-1144,2023-11-16 22:25:00,Gaming Mouse,Electronics,5,1599.0,Net Banking,Failed,7995.0,2023,11,Nov
+TXN-10483,CUST-1099,2023-10-03 22:56:00,Data Engineering Essentials,Books,2,899.0,Credit Card,Cancelled,1798.0,2023,10,Oct
+TXN-10134,CUST-1090,2023-09-15 07:39:00,Bluetooth Speaker,Electronics,4,1999.0,Credit Card,Completed,7996.0,2023,9,Sep
+TXN-10052,CUST-1147,2023-08-15 14:43:00,Slim Fit Denim Jeans,Clothing,1,1799.0,Debit Card,Failed,1799.0,2023,8,Aug
+TXN-10613,CUST-1043,2023-12-22 22:42:00,Mechanical Keyboard,Electronics,5,3499.0,Credit Card,Pending,17495.0,2023,12,Dec
+TXN-10519,CUST-1107,2023-02-20 13:08:00,Electric Coffee Maker,Home & Kitchen,1,2299.0,Debit Card,Failed,2299.0,2023,2,Feb
+TXN-10590,CUST-1063,2024-02-11 22:03:00,Organic Face Wash,Beauty,1,349.0,Debit Card,Completed,349.0,2024,2,Feb
+TXN-10073,CUST-1128,2023-11-22 14:45:00,Slim Fit Denim Jeans,Clothing,5,1799.0,UPI,Cancelled,8995.0,2023,11,Nov
+TXN-10251,CUST-1045,2023-07-29 05:49:00,Casual Hooded Sweatshirt,Clothing,4,1499.0,Net Banking,Failed,5996.0,2023,7,Jul
+TXN-10291,CUST-1041,2023-09-05 02:23:00,Non-Stick Frying Pan,Home & Kitchen,5,899.0,UPI,Cancelled,4495.0,2023,9,Sep
+TXN-10145,CUST-1122,2023-12-03 12:04:00,Cotton T-Shirt,Clothing,5,599.0,UPI,Failed,2995.0,2023,12,Dec
+TXN-10278,CUST-1046,2023-11-23 00:44:00,Formal Dress Shirt,Clothing,4,1299.0,Debit Card,Completed,5196.0,2023,11,Nov
+TXN-10556,CUST-1119,2023-08-16 11:47:00,Hair Nourishing Serum,Beauty,4,450.0,UPI,Completed,1800.0,2023,8,Aug
+TXN-10212,CUST-1033,2024-03-19 05:52:00,Electric Coffee Maker,Home & Kitchen,2,2299.0,Cash on Delivery,Cancelled,4598.0,2024,3,Mar
+TXN-10527,CUST-1070,2023-05-15 07:23:00,Wireless Headphones,Electronics,4,2499.0,Net Banking,Pending,9996.0,2023,5,May
+TXN-10016,CUST-1113,2023-07-11 05:34:00,Moisturizing Cream,Beauty,4,299.0,Credit Card,Completed,1196.0,2023,7,Jul
+TXN-10118,CUST-1086,2023-11-07 11:14:00,Slim Fit Denim Jeans,Clothing,1,1799.0,Credit Card,Pending,1799.0,2023,11,Nov
+TXN-10281,CUST-1126,2023-02-09 09:10:00,Hair Nourishing Serum,Beauty,5,450.0,Debit Card,Failed,2250.0,2023,2,Feb
+TXN-10162,CUST-1097,2023-06-11 15:32:00,Formal Dress Shirt,Clothing,1,1299.0,Debit Card,Completed,1299.0,2023,6,Jun
+TXN-10647,CUST-1112,2023-08-30 04:07:00,LED Desk Lamp,Home & Kitchen,4,799.0,Cash on Delivery,Pending,3196.0,2023,8,Aug
+TXN-10452,CUST-1106,2023-03-18 17:57:00,Organic Face Wash,Beauty,2,349.0,Cash on Delivery,Cancelled,698.0,2023,3,Mar
+TXN-10327,CUST-1069,2023-09-11 08:20:00,LED Desk Lamp,Home & Kitchen,5,799.0,Credit Card,Cancelled,3995.0,2023,9,Sep
+TXN-10546,CUST-1108,2023-08-06 06:26:00,Non-Stick Frying Pan,Home & Kitchen,3,899.0,Net Banking,Completed,2697.0,2023,8,Aug
+TXN-10284,CUST-1090,2023-09-09 07:22:00,Hair Nourishing Serum,Beauty,2,450.0,Cash on Delivery,Failed,900.0,2023,9,Sep
+TXN-10294,CUST-1080,2023-04-01 12:20:00,LED Desk Lamp,Home & Kitchen,2,799.0,Debit Card,Failed,1598.0,2023,4,Apr
+TXN-10198,CUST-1095,2023-12-30 02:35:00,Moisturizing Cream,Beauty,2,299.0,UPI,Failed,598.0,2023,12,Dec
+TXN-10206,CUST-1027,2023-12-04 19:46:00,Organic Face Wash,Beauty,1,349.0,Credit Card,Completed,349.0,2023,12,Dec
+TXN-10329,CUST-1009,2023-01-01 13:12:00,Slim Fit Denim Jeans,Clothing,3,1799.0,Credit Card,Failed,5397.0,2023,1,Jan
+TXN-10215,CUST-1002,2023-01-05 03:27:00,Casual Hooded Sweatshirt,Clothing,4,1499.0,Debit Card,Completed,5996.0,2023,1,Jan
+TXN-10582,CUST-1053,2023-12-23 15:12:00,Moisturizing Cream,Beauty,3,299.0,Net Banking,Pending,897.0,2023,12,Dec
+TXN-10024,CUST-1008,2023-07-30 14:55:00,Wireless Headphones,Electronics,4,2499.0,Debit Card,Completed,9996.0,2023,7,Jul
+TXN-10631,CUST-1080,2023-07-21 19:47:00,Organic Face Wash,Beauty,5,349.0,Credit Card,Cancelled,1745.0,2023,7,Jul
+TXN-10106,CUST-1072,2023-07-16 07:54:00,Designing Data-Intensive Applications,Books,4,1200.0,Net Banking,Failed,4800.0,2023,7,Jul
+TXN-10048,CUST-1139,2023-01-01 16:59:00,Sunscreen SPF 50,Beauty,3,499.0,Net Banking,Completed,1497.0,2023,1,Jan
+TXN-10046,CUST-1105,2023-03-01 08:11:00,Organic Face Wash,Beauty,1,349.0,Net Banking,Failed,349.0,2023,3,Mar
+TXN-10319,CUST-1033,2023-06-02 01:28:00,Stainless Steel Water Bottle,Home & Kitchen,4,499.0,Credit Card,Pending,1996.0,2023,6,Jun
+TXN-10005,CUST-1095,2023-11-06 08:51:00,Mechanical Keyboard,Electronics,1,3499.0,Net Banking,Completed,3499.0,2023,11,Nov
+TXN-10119,CUST-1111,2023-01-18 18:23:00,Casual Hooded Sweatshirt,Clothing,3,1499.0,Net Banking,Completed,4497.0,2023,1,Jan
+TXN-10535,CUST-1005,2024-01-23 10:49:00,SQL Query Optimization,Books,5,750.0,Credit Card,Cancelled,3750.0,2024,1,Jan
+TXN-10397,CUST-1096,2024-01-21 22:42:00,Gaming Mouse,Electronics,3,1599.0,Cash on Delivery,Failed,4797.0,2024,1,Jan
+TXN-10471,CUST-1049,2024-02-06 22:18:00,USB-C Hub,Electronics,4,1299.0,Debit Card,Completed,5196.0,2024,2,Feb
+TXN-10038,CUST-1016,2023-02-17 20:27:00,Stainless Steel Water Bottle,Home & Kitchen,3,499.0,Credit Card,Pending,1497.0,2023,2,Feb
+TXN-10211,CUST-1133,2023-05-17 14:15:00,Cotton T-Shirt,Clothing,3,599.0,Net Banking,Failed,1797.0,2023,5,May
+TXN-10136,CUST-1097,2023-11-08 04:04:00,Sports Running Shoes,Clothing,5,2999.0,Cash on Delivery,Failed,14995.0,2023,11,Nov
+TXN-10529,CUST-1023,2023-01-18 19:32:00,Sunscreen SPF 50,Beauty,5,499.0,UPI,Completed,2495.0,2023,1,Jan
+TXN-10147,CUST-1113,2023-03-22 19:03:00,USB-C Hub,Electronics,4,1299.0,Cash on Delivery,Cancelled,5196.0,2023,3,Mar
+TXN-10336,CUST-1017,2023-02-21 04:48:00,Gaming Mouse,Electronics,4,1599.0,Debit Card,Failed,6396.0,2023,2,Feb
+TXN-10318,CUST-1150,2024-02-26 11:34:00,Mechanical Keyboard,Electronics,2,3499.0,Net Banking,Completed,6998.0,2024,2,Feb
+TXN-10537,CUST-1011,2023-05-08 09:05:00,Designing Data-Intensive Applications,Books,1,1200.0,Cash on Delivery,Completed,1200.0,2023,5,May
+TXN-10496,CUST-1033,2024-02-07 07:45:00,Designing Data-Intensive Applications,Books,2,1200.0,Debit Card,Cancelled,2400.0,2024,2,Feb
+TXN-10349,CUST-1108,2024-03-15 18:10:00,Air Fryer 4L,Home & Kitchen,1,5999.0,Cash on Delivery,Completed,5999.0,2024,3,Mar
+TXN-10195,CUST-1080,2023-11-29 08:15:00,Gaming Mouse,Electronics,2,1599.0,Cash on Delivery,Failed,3198.0,2023,11,Nov
+TXN-10158,CUST-1122,2024-01-25 18:28:00,Moisturizing Cream,Beauty,3,299.0,Credit Card,Cancelled,897.0,2024,1,Jan
+TXN-10513,CUST-1084,2023-11-07 15:55:00,Python Data Analysis Guide,Books,4,659.0,Credit Card,Completed,2636.0,2023,11,Nov
+TXN-10026,CUST-1060,2023-05-08 02:28:00,Organic Face Wash,Beauty,5,349.0,Credit Card,Completed,1745.0,2023,5,May
+TXN-10095,CUST-1148,2023-08-29 16:41:00,Python Data Analysis Guide,Books,5,659.0,Net Banking,Cancelled,3295.0,2023,8,Aug
+TXN-10039,CUST-1137,2024-01-15 14:35:00,Data Engineering Essentials,Books,1,899.0,Credit Card,Completed,899.0,2024,1,Jan
+TXN-10384,CUST-1061,2023-05-02 11:20:00,Casual Hooded Sweatshirt,Clothing,4,1499.0,Credit Card,Pending,5996.0,2023,5,May
+TXN-10115,CUST-1150,2023-03-22 02:28:00,Non-Stick Frying Pan,Home & Kitchen,3,899.0,Net Banking,Pending,2697.0,2023,3,Mar
+TXN-10623,CUST-1071,2024-01-30 04:41:00,Moisturizing Cream,Beauty,1,299.0,Cash on Delivery,Completed,299.0,2024,1,Jan
+TXN-10538,CUST-1018,2023-06-10 11:13:00,Sunscreen SPF 50,Beauty,2,499.0,Cash on Delivery,Pending,998.0,2023,6,Jun
+TXN-10222,CUST-1116,2023-12-11 03:26:00,Organic Face Wash,Beauty,5,349.0,Cash on Delivery,Pending,1745.0,2023,12,Dec
+TXN-10310,CUST-1054,2023-11-09 12:37:00,Bluetooth Speaker,Electronics,4,1999.0,UPI,Pending,7996.0,2023,11,Nov
+TXN-10463,CUST-1015,2023-03-30 23:52:00,Formal Dress Shirt,Clothing,5,1299.0,Debit Card,Failed,6495.0,2023,3,Mar
+TXN-10381,CUST-1040,2023-03-31 22:35:00,Sunscreen SPF 50,Beauty,5,499.0,UPI,Failed,2495.0,2023,3,Mar
+TXN-10244,CUST-1101,2023-09-02 04:29:00,Hair Nourishing Serum,Beauty,5,450.0,Cash on Delivery,Pending,2250.0,2023,9,Sep
+TXN-10089,CUST-1036,2023-08-19 22:38:00,Data Engineering Essentials,Books,2,899.0,Debit Card,Pending,1798.0,2023,8,Aug
+TXN-10424,CUST-1124,2024-01-07 17:48:00,Cotton T-Shirt,Clothing,2,599.0,Debit Card,Pending,1198.0,2024,1,Jan
+TXN-10279,CUST-1038,2023-01-22 07:13:00,Moisturizing Cream,Beauty,1,299.0,Credit Card,Pending,299.0,2023,1,Jan
+TXN-10033,CUST-1042,2023-05-16 12:08:00,Air Fryer 4L,Home & Kitchen,1,5999.0,Credit Card,Cancelled,5999.0,2023,5,May
+TXN-10323,CUST-1001,2024-03-19 20:08:00,Slim Fit Denim Jeans,Clothing,3,1799.0,UPI,Failed,5397.0,2024,3,Mar
+TXN-10610,CUST-1111,2023-01-23 07:12:00,Stainless Steel Water Bottle,Home & Kitchen,1,499.0,Credit Card,Pending,499.0,2023,1,Jan
+TXN-10192,CUST-1046,2023-02-08 21:40:00,Python Data Analysis Guide,Books,1,659.0,Credit Card,Cancelled,659.0,2023,2,Feb
+TXN-10399,CUST-1018,2023-06-03 02:25:00,Mechanical Keyboard,Electronics,5,3499.0,Cash on Delivery,Completed,17495.0,2023,6,Jun
+TXN-10621,CUST-1035,2023-05-04 18:09:00,Designing Data-Intensive Applications,Books,4,1200.0,Cash on Delivery,Completed,4800.0,2023,5,May
+TXN-10170,CUST-1118,2023-11-02 12:09:00,Sports Running Shoes,Clothing,2,2999.0,Net Banking,Completed,5998.0,2023,11,Nov
+TXN-10548,CUST-1123,2023-04-11 04:51:00,Cotton T-Shirt,Clothing,2,599.0,Net Banking,Cancelled,1198.0,2023,4,Apr
+TXN-10642,CUST-1009,2023-07-29 14:05:00,Organic Face Wash,Beauty,2,349.0,Cash on Delivery,Pending,698.0,2023,7,Jul
+TXN-10348,CUST-1011,2023-12-31 18:40:00,USB-C Hub,Electronics,5,1299.0,Debit Card,Completed,6495.0,2023,12,Dec
+TXN-10032,CUST-1065,2023-08-03 21:37:00,Moisturizing Cream,Beauty,3,299.0,UPI,Failed,897.0,2023,8,Aug
+TXN-10288,CUST-1115,2023-01-14 02:22:00,Moisturizing Cream,Beauty,4,299.0,Credit Card,Pending,1196.0,2023,1,Jan
+TXN-10153,CUST-1072,2023-07-27 22:40:00,Data Engineering Essentials,Books,4,899.0,Credit Card,Failed,3596.0,2023,7,Jul
+TXN-10068,CUST-1042,2023-03-06 15:42:00,Smart Watch,Electronics,4,4999.0,UPI,Failed,19996.0,2023,3,Mar
+TXN-10363,CUST-1011,2024-03-12 03:05:00,Sports Running Shoes,Clothing,1,2999.0,UPI,Failed,2999.0,2024,3,Mar
+TXN-10340,CUST-1040,2023-03-09 12:55:00,Moisturizing Cream,Beauty,5,299.0,UPI,Cancelled,1495.0,2023,3,Mar
+TXN-10592,CUST-1021,2023-11-17 05:35:00,Organic Face Wash,Beauty,5,349.0,Debit Card,Cancelled,1745.0,2023,11,Nov
+TXN-10214,CUST-1098,2023-10-26 11:03:00,USB-C Hub,Electronics,5,1299.0,Cash on Delivery,Pending,6495.0,2023,10,Oct
+TXN-10020,CUST-1022,2023-08-20 03:15:00,Casual Hooded Sweatshirt,Clothing,1,1499.0,Cash on Delivery,Pending,1499.0,2023,8,Aug
+TXN-10549,CUST-1101,2024-03-10 20:33:00,Moisturizing Cream,Beauty,4,299.0,Debit Card,Pending,1196.0,2024,3,Mar
+TXN-10569,CUST-1064,2023-04-07 10:01:00,Sports Running Shoes,Clothing,1,2999.0,UPI,Completed,2999.0,2023,4,Apr
+TXN-10324,CUST-1064,2023-03-14 18:40:00,Non-Stick Frying Pan,Home & Kitchen,4,899.0,Credit Card,Completed,3596.0,2023,3,Mar
+TXN-10579,CUST-1108,2023-02-16 21:39:00,Stainless Steel Water Bottle,Home & Kitchen,3,499.0,Credit Card,Completed,1497.0,2023,2,Feb
+TXN-10307,CUST-1037,2023-11-24 21:27:00,Python Data Analysis Guide,Books,4,659.0,Cash on Delivery,Failed,2636.0,2023,11,Nov
+TXN-10534,CUST-1032,2024-02-16 16:16:00,Moisturizing Cream,Beauty,4,299.0,Net Banking,Cancelled,1196.0,2024,2,Feb
+TXN-10058,CUST-1124,2024-01-20 07:53:00,Electric Coffee Maker,Home & Kitchen,3,2299.0,Net Banking,Completed,6897.0,2024,1,Jan
+TXN-10474,CUST-1141,2023-08-08 08:35:00,Electric Coffee Maker,Home & Kitchen,5,2299.0,UPI,Completed,11495.0,2023,8,Aug
+TXN-10344,CUST-1070,2023-06-08 22:27:00,Slim Fit Denim Jeans,Clothing,1,1799.0,Net Banking,Completed,1799.0,2023,6,Jun
+TXN-10472,CUST-1140,2024-01-16 08:12:00,Sunscreen SPF 50,Beauty,3,499.0,Cash on Delivery,Pending,1497.0,2024,1,Jan
+TXN-10643,CUST-1088,2024-02-24 06:03:00,Cotton T-Shirt,Clothing,3,599.0,Credit Card,Completed,1797.0,2024,2,Feb
+TXN-10494,CUST-1013,2023-05-26 19:04:00,Formal Dress Shirt,Clothing,4,1299.0,Debit Card,Pending,5196.0,2023,5,May
+TXN-10037,CUST-1119,2023-05-25 19:13:00,Air Fryer 4L,Home & Kitchen,5,5999.0,Cash on Delivery,Pending,29995.0,2023,5,May
+TXN-10486,CUST-1103,2023-04-01 20:46:00,Organic Face Wash,Beauty,1,349.0,Debit Card,Completed,349.0,2023,4,Apr
+TXN-10491,CUST-1069,2023-07-31 20:54:00,Sunscreen SPF 50,Beauty,2,499.0,UPI,Pending,998.0,2023,7,Jul
+TXN-10347,CUST-1117,2024-01-11 03:49:00,USB-C Hub,Electronics,3,1299.0,Cash on Delivery,Completed,3897.0,2024,1,Jan
+TXN-10339,CUST-1055,2023-07-17 03:15:00,Data Engineering Essentials,Books,5,899.0,Credit Card,Failed,4495.0,2023,7,Jul
+TXN-10583,CUST-1100,2023-03-24 02:33:00,Casual Hooded Sweatshirt,Clothing,3,1499.0,Cash on Delivery,Failed,4497.0,2023,3,Mar

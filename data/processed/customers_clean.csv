@@ -1,0 +1,148 @@
+customer_id,customer_name,email,phone,city,state,signup_date,customer_segment,customer_tenure_days
+CUST-1102,Priya Joshi,priya.joshi102@example.com,8628238707,Unknown,Karnataka,2022-08-05,Consumer,1518
+CUST-1056,Meera Saxena,meera.saxena56@example.com,+91-7444900634,Chennai,Karnataka,2022-04-29,Consumer,1616
+CUST-1057,Kavya Joshi,kavya.joshi57@example.com,8210133979,Hyderabad,Maharashtra,2022-12-18,Corporate,1383
+CUST-1140,Manish Chawla,manish.chawla140@example.com,9960826470,Hyderabad,Delhi,2022-10-26,Consumer,1436
+CUST-1085,Rahul Chawla,rahul.chawla85@example.com,8780010572,Unknown,West Bengal,2023-08-13,Corporate,1145
+CUST-1079,Meera Shah,meera.shah79@example.com,9353372386,Ahmedabad,Tamil Nadu,2022-11-08,Home Office,1423
+CUST-1136,Karan Kulkarni,karan.kulkarni136@example.com,+91-8633711193,Unknown,Delhi,2023-03-30,Home Office,1281
+CUST-1105,Karan Bhat,,7294713656,Kolkata,West Bengal,2022-02-11,Consumer,1693
+CUST-1110,Deepak Shah,,7851819913,Chennai,Telangana,2023-10-05,Corporate,1092
+CUST-1109,Neha Singh,neha.singh109@example.com,8335901990,Chennai,Telangana,2022-01-27,Home Office,1708
+CUST-1141,Karan Rao,karan.rao141@example.com,8214266162,Pune,Gujarat,2023-04-10,Consumer,1270
+CUST-1138,Vikram Reddy,vikram.reddy138@example.com,9686566602,Mumbai,Karnataka,2023-11-08,Consumer,1058
+CUST-1052,Rekha Iyer,,7311570307,Chennai,Delhi,2023-09-29,Corporate,1098
+CUST-1016,Ishita Patel,ishita.patel16@example.com,+91-7906164396,Hyderabad,West Bengal,2022-11-19,Corporate,1412
+CUST-1046,Priya Iyer,priya.iyer46@example.com,7245522987,Chennai,Telangana,2023-05-04,Corporate,1246
+CUST-1030,Swati Reddy,,9316259067,Kolkata,West Bengal,2022-07-25,Consumer,1529
+CUST-1070,Anita Joshi,anita.joshi70@example.com,7298159856,Kolkata,Karnataka,2022-12-26,Consumer,1375
+CUST-1031,Meera Shah,meera.shah31@example.com,9884873529,Pune,Karnataka,2023-03-25,Corporate,1286
+CUST-1061,Swati Banerjee,swati.banerjee61@example.com,7041531046,Chennai,Tamil Nadu,2022-06-02,Corporate,1582
+CUST-1065,Manish Pillai,,7663801533,Mumbai,Gujarat,2022-06-16,Corporate,1568
+CUST-1020,Priya Gupta,priya.gupta20@example.com,7656448479,Pune,Maharashtra,2023-11-28,Consumer,1038
+CUST-1017,Shweta Shah,shweta.shah17@example.com,9761027762,Unknown,Delhi,2022-05-27,Home Office,1588
+CUST-1145,Varun Chawla,varun.chawla145@example.com,7534094883,Delhi,West Bengal,2022-11-08,Consumer,1423
+CUST-1019,Aarti Mehta,aarti.mehta19@example.com,7941975480,Chennai,Telangana,2023-05-21,Consumer,1229
+CUST-1013,Rahul Pillai,,9727210979,Mumbai,Telangana,2022-09-08,Corporate,1484
+CUST-1115,Ishita Pillai,ishita.pillai115@example.com,9311435034,Kolkata,Delhi,2023-04-22,Consumer,1258
+CUST-1010,Rahul Verma,rahul.verma10@example.com,9840104345,Mumbai,Gujarat,2022-10-24,Consumer,1438
+CUST-1114,Sunita Bhat,sunita.bhat114@example.com,8974565461,Pune,Maharashtra,2023-03-22,Corporate,1289
+CUST-1032,Sanjay Gupta,sanjay.gupta32@example.com,+91-8064746525,Mumbai,Tamil Nadu,2022-12-13,Consumer,1388
+CUST-1091,Ishita Kulkarni,,9081328344,Pune,Maharashtra,2022-10-09,Consumer,1453
+CUST-1133,Rahul Shah,rahul.shah133@example.com,9112035409,Chennai,Telangana,2023-10-07,Consumer,1090
+CUST-1077,Manish Iyer,,8728296502,Pune,Karnataka,2023-07-22,Corporate,1167
+CUST-1118,Ananya Deshmukh,ananya.deshmukh118@example.com,8395925222,Mumbai,Delhi,2022-08-06,Home Office,1517
+CUST-1101,Ananya Patel,ananya.patel101@example.com,9760588734,Delhi,Maharashtra,2023-04-18,Corporate,1262
+CUST-1076,Suresh Saxena,suresh.saxena76@example.com,7535261654,Kolkata,Karnataka,2023-06-04,Home Office,1215
+CUST-1043,Divya Shah,divya.shah43@example.com,7251837136,Mumbai,Delhi,2022-01-03,Consumer,1732
+CUST-1003,Ananya Patel,ananya.patel3@example.com,7939042955,Mumbai,Telangana,2023-09-09,Consumer,1118
+CUST-1096,Ananya Chatterjee,ananya.chatterjee96@example.com,Unknown,Bengaluru,Delhi,2022-01-07,Home Office,1728
+CUST-1113,Anita Sharma,anita.sharma113@example.com,8804138557,Ahmedabad,Delhi,2022-04-19,Consumer,1626
+CUST-1137,Swati Rao,swati.rao137@example.com,9442244963,Hyderabad,Tamil Nadu,2023-09-17,Consumer,1110
+CUST-1146,Aarti Joshi,aarti.joshi146@example.com,9149511642,Hyderabad,Delhi,2023-03-25,Consumer,1286
+CUST-1027,Ananya Gupta,,8558990517,Ahmedabad,Gujarat,2022-11-11,Corporate,1420
+CUST-1148,Karan Saxena,karan.saxena148@example.com,9470461357,Hyderabad,Tamil Nadu,2023-11-20,Home Office,1046
+CUST-1127,Nikhil Joshi,nikhil.joshi127@example.com,9532256470,Kolkata,Telangana,2023-09-04,Home Office,1123
+CUST-1067,Riya Joshi,riya.joshi67@example.com,7683749521,Ahmedabad,West Bengal,2022-04-21,Consumer,1624
+CUST-1037,Vikram Gupta,vikram.gupta37@example.com,9830309370,Delhi,Karnataka,2023-03-10,Consumer,1301
+CUST-1083,Anita Patel,anita.patel83@example.com,8008752943,Pune,Karnataka,2022-08-19,Corporate,1504
+CUST-1023,Anita Gupta,anita.gupta23@example.com,8260573448,Delhi,Maharashtra,2023-04-10,Consumer,1270
+CUST-1094,Divya Patel,divya.patel94@example.com,8781844052,Delhi,Karnataka,2023-07-10,Consumer,1179
+CUST-1066,Manish Sharma,,7770348179,Kolkata,Karnataka,2023-02-26,Consumer,1313
+CUST-1099,Deepak Iyer,,9872790327,Pune,Gujarat,2023-02-19,Consumer,1320
+CUST-1012,Siddharth Mehta,siddharth.mehta12@example.com,Unknown,Bengaluru,Maharashtra,2023-11-18,Home Office,1048
+CUST-1069,Meera Nair,meera.nair69@example.com,7957449367,Chennai,West Bengal,2022-07-17,Consumer,1537
+CUST-1098,Karan Deshmukh,karan.deshmukh98@example.com,7942408767,Mumbai,Delhi,2023-05-13,Consumer,1237
+CUST-1007,Sneha Shah,sneha.shah7@example.com,7415393687,Bengaluru,Gujarat,2022-12-19,Corporate,1382
+CUST-1028,Priya Nair,priya.nair28@example.com,9436779490,Chennai,Tamil Nadu,2023-05-13,Consumer,1237
+CUST-1086,Deepak Deshmukh,deepak.deshmukh86@example.com,8716495971,Mumbai,Maharashtra,2023-11-03,Consumer,1063
+CUST-1149,Rohan Singh,rohan.singh149@example.com,9020785643,Delhi,West Bengal,2023-03-29,Home Office,1282
+CUST-1039,Aarti Iyer,,7469306919,Mumbai,Maharashtra,2022-07-14,Corporate,1540
+CUST-1042,Aarav Patel,aarav.patel42@example.com,8015242176,Mumbai,Delhi,2023-05-13,Consumer,1237
+CUST-1005,Sanjay Chatterjee,sanjay.chatterjee5@example.com,8194819984,Ahmedabad,Gujarat,2022-01-07,Corporate,1728
+CUST-1033,Karan Chatterjee,,7945826486,Chennai,Tamil Nadu,2023-10-09,Consumer,1088
+CUST-1068,Rohan Deshmukh,rohan.deshmukh68@example.com,7955345537,Unknown,Maharashtra,2023-04-17,Home Office,1263
+CUST-1074,Deepak Chatterjee,deepak.chatterjee74@example.com,7816382125,Mumbai,Tamil Nadu,2023-03-23,Consumer,1288
+CUST-1124,Rajesh Agarwal,rajesh.agarwal124@example.com,9363900493,Bengaluru,Karnataka,2023-04-10,Home Office,1270
+CUST-1011,Karan Gupta,,8632629719,Mumbai,Delhi,2023-10-13,Home Office,1084
+CUST-1117,Riya Chawla,,9447485590,Hyderabad,West Bengal,2023-01-24,Home Office,1346
+CUST-1119,Arjun Iyer,arjun.iyer119@example.com,8201124041,Unknown,Telangana,2022-10-10,Corporate,1452
+CUST-1001,Neha Sharma,neha.sharma1@example.com,8181241943,Mumbai,Maharashtra,2022-05-23,Consumer,1592
+CUST-1129,Aarav Kapoor,aarav.kapoor129@example.com,9294092753,Chennai,Karnataka,2022-02-16,Consumer,1688
+CUST-1121,Manish Deshmukh,,9384463652,Kolkata,Maharashtra,2023-05-03,Consumer,1247
+CUST-1045,Shweta Kumar,,7815605132,Bengaluru,Maharashtra,2022-03-01,Corporate,1675
+CUST-1112,Rohan Mehta,rohan.mehta112@example.com,+91-9288123416,Delhi,West Bengal,2023-01-15,Consumer,1355
+CUST-1029,Aditya Kumar,aditya.kumar29@example.com,9833608204,Delhi,Telangana,2022-06-19,Home Office,1565
+CUST-1041,Rahul Chawla,rahul.chawla41@example.com,9363629219,Chennai,Tamil Nadu,2023-10-30,Corporate,1067
+CUST-1026,Siddharth Banerjee,,9277851678,Chennai,Telangana,2022-11-28,Consumer,1403
+CUST-1024,Arjun Kulkarni,arjun.kulkarni24@example.com,Unknown,Kolkata,Maharashtra,2023-06-04,Consumer,1215
+CUST-1082,Siddharth Saxena,siddharth.saxena82@example.com,7364194056,Bengaluru,Telangana,2023-11-11,Consumer,1055
+CUST-1080,Divya Agarwal,divya.agarwal80@example.com,+91-9491015654,Hyderabad,West Bengal,2022-11-26,Consumer,1405
+CUST-1040,Sanjay Kumar,sanjay.kumar40@example.com,+91-8811967841,Mumbai,Karnataka,2023-04-19,Corporate,1261
+CUST-1097,Meera Shah,meera.shah97@example.com,8799682701,Hyderabad,West Bengal,2023-07-14,Corporate,1175
+CUST-1087,Aarav Gupta,aarav.gupta87@example.com,8825989011,Mumbai,Maharashtra,2023-06-15,Consumer,1204
+CUST-1116,Ishita Iyer,ishita.iyer116@example.com,8054393708,Ahmedabad,Tamil Nadu,2022-10-13,Consumer,1449
+CUST-1081,Sanjay Chawla,,9901796894,Mumbai,Telangana,2023-04-30,Consumer,1250
+CUST-1144,Rahul Verma,,Unknown,Mumbai,Gujarat,2022-11-11,Corporate,1420
+CUST-1048,Rahul Saxena,rahul.saxena48@example.com,Unknown,Mumbai,Delhi,2022-05-03,Corporate,1612
+CUST-1095,Manish Verma,manish.verma95@example.com,7888346940,Ahmedabad,Delhi,2023-02-03,Corporate,1336
+CUST-1062,Rohan Mehta,rohan.mehta62@example.com,9501859536,Hyderabad,Maharashtra,2023-03-17,Corporate,1294
+CUST-1034,Karan Patel,karan.patel34@example.com,7134917627,Unknown,Gujarat,2022-12-05,Consumer,1396
+CUST-1120,Aarav Kulkarni,,Unknown,Mumbai,Tamil Nadu,2022-09-05,Consumer,1487
+CUST-1128,Vikram Reddy,vikram.reddy128@example.com,+91-8272368870,Mumbai,Karnataka,2022-07-03,Home Office,1551
+CUST-1134,Priya Kumar,priya.kumar134@example.com,7640798731,Ahmedabad,Telangana,2022-11-08,Consumer,1423
+CUST-1063,Rohan Rao,,8566166314,Ahmedabad,Gujarat,2022-02-10,Home Office,1694
+CUST-1104,Sneha Deshmukh,,+91-7083250566,Kolkata,Telangana,2022-02-23,Home Office,1681
+CUST-1142,Karan Joshi,karan.joshi142@example.com,9684603688,Hyderabad,West Bengal,2022-07-22,Consumer,1532
+CUST-1123,Riya Rao,riya.rao123@example.com,9851686578,Hyderabad,Karnataka,2023-04-30,Corporate,1250
+CUST-1106,Riya Reddy,riya.reddy106@example.com,7087531510,Hyderabad,Maharashtra,2022-09-02,Corporate,1490
+CUST-1054,Rajesh Patel,,8049193572,Bengaluru,Karnataka,2022-06-11,Consumer,1573
+CUST-1006,Swati Iyer,swati.iyer6@example.com,8193448329,Chennai,Maharashtra,2022-12-11,Consumer,1390
+CUST-1126,Neha Banerjee,,9964229896,Mumbai,Maharashtra,2022-10-08,Consumer,1454
+CUST-1004,Amit Kapoor,amit.kapoor4@example.com,9791232393,Pune,Telangana,2023-03-06,Corporate,1305
+CUST-1050,Suresh Joshi,suresh.joshi50@example.com,7877286584,Pune,West Bengal,2022-11-18,Corporate,1413
+CUST-1036,Nikhil Nair,,Unknown,Ahmedabad,Delhi,2023-02-21,Corporate,1318
+CUST-1078,Amit Agarwal,,9855850145,Bengaluru,West Bengal,2022-06-28,Corporate,1556
+CUST-1035,Riya Joshi,riya.joshi35@example.com,9873237671,Delhi,Maharashtra,2023-07-07,Corporate,1182
+CUST-1047,Siddharth Verma,siddharth.verma47@example.com,9181106786,Chennai,Gujarat,2022-07-10,Consumer,1544
+CUST-1008,Arjun Verma,arjun.verma8@example.com,+91-8973214822,Hyderabad,Tamil Nadu,2023-01-23,Consumer,1347
+CUST-1044,Arjun Chawla,,8225136114,Delhi,West Bengal,2023-07-24,Consumer,1165
+CUST-1071,Aarti Saxena,aarti.saxena71@example.com,9303029031,Bengaluru,Tamil Nadu,2022-04-29,Home Office,1616
+CUST-1139,Siddharth Nair,siddharth.nair139@example.com,7746523513,Hyderabad,Tamil Nadu,2022-06-10,Consumer,1574
+CUST-1111,Vikram Kapoor,vikram.kapoor111@example.com,8295287749,Pune,Telangana,2022-05-04,Corporate,1611
+CUST-1092,Rahul Kapoor,rahul.kapoor92@example.com,8227193073,Mumbai,Karnataka,2022-12-10,Home Office,1391
+CUST-1084,Kavya Sharma,kavya.sharma84@example.com,Unknown,Chennai,Maharashtra,2023-02-05,Corporate,1334
+CUST-1090,Sanjay Singh,,9038711176,Delhi,Karnataka,2022-09-11,Consumer,1481
+CUST-1009,Varun Bhat,,9656522106,Bengaluru,Telangana,2022-07-16,Consumer,1538
+CUST-1014,Rekha Shah,rekha.shah14@example.com,8159417075,Pune,West Bengal,2023-07-25,Corporate,1164
+CUST-1060,Arjun Singh,,Unknown,Kolkata,Delhi,2023-07-19,Consumer,1170
+CUST-1147,Rohan Agarwal,rohan.agarwal147@example.com,8384360647,Hyderabad,Karnataka,2022-01-27,Consumer,1708
+CUST-1132,Pooja Verma,,Unknown,Mumbai,Gujarat,2023-05-05,Consumer,1245
+CUST-1018,Aditya Nair,,9411057787,Hyderabad,Karnataka,2023-08-22,Consumer,1136
+CUST-1073,Swati Mehta,swati.mehta73@example.com,8347233823,Delhi,Telangana,2023-06-08,Consumer,1211
+CUST-1135,Riya Gupta,,9396905421,Kolkata,Delhi,2023-09-13,Corporate,1114
+CUST-1143,Neha Banerjee,,7965549222,Pune,Maharashtra,2022-09-30,Corporate,1462
+CUST-1064,Divya Saxena,divya.saxena64@example.com,+91-8071722055,Pune,Tamil Nadu,2022-12-29,Corporate,1372
+CUST-1055,Meera Pillai,,9808806886,Delhi,Tamil Nadu,2023-11-15,Corporate,1051
+CUST-1108,Arjun Mehta,,Unknown,Mumbai,Telangana,2023-09-14,Consumer,1113
+CUST-1051,Arjun Shah,arjun.shah51@example.com,7562117925,Unknown,West Bengal,2023-10-23,Home Office,1074
+CUST-1059,Swati Joshi,swati.joshi59@example.com,7189351213,Chennai,Karnataka,2022-05-14,Consumer,1601
+CUST-1049,Riya Chatterjee,riya.chatterjee49@example.com,9553440342,Chennai,Telangana,2022-03-25,Consumer,1651
+CUST-1089,Suresh Chawla,suresh.chawla89@example.com,9631321682,Ahmedabad,West Bengal,2023-06-01,Consumer,1218
+CUST-1022,Aarav Saxena,,7491995979,Pune,Telangana,2022-10-01,Consumer,1461
+CUST-1058,Arjun Kulkarni,arjun.kulkarni58@example.com,9098228320,Mumbai,Gujarat,2022-02-22,Consumer,1682
+CUST-1130,Varun Kapoor,,7542366274,Pune,Gujarat,2023-05-18,Consumer,1232
+CUST-1038,Rekha Verma,rekha.verma38@example.com,9892078691,Pune,West Bengal,2022-04-11,Consumer,1634
+CUST-1103,Suresh Iyer,suresh.iyer103@example.com,8628334692,Mumbai,Gujarat,2023-03-08,Home Office,1303
+CUST-1002,Vikram Saxena,vikram.saxena2@example.com,9342331444,Chennai,Telangana,2023-03-09,Consumer,1302
+CUST-1053,Vikram Patel,vikram.patel53@example.com,9309122187,Mumbai,Telangana,2022-09-29,Corporate,1463
+CUST-1150,Pooja Chatterjee,,8872111746,Pune,Gujarat,2023-05-19,Consumer,1231
+CUST-1131,Aarav Chatterjee,aarav.chatterjee131@example.com,8221228113,Delhi,Delhi,2023-03-28,Home Office,1283
+CUST-1100,Siddharth Chawla,siddharth.chawla100@example.com,7548157187,Hyderabad,Telangana,2022-01-28,Consumer,1707
+CUST-1088,Priya Banerjee,,+91-8070298438,Chennai,Delhi,2022-05-17,Consumer,1598
+CUST-1122,Shweta Chawla,shweta.chawla122@example.com,7074059253,Chennai,Karnataka,2022-08-15,Consumer,1508
+CUST-1021,Rahul Shah,rahul.shah21@example.com,8639042338,Hyderabad,Delhi,2023-06-26,Home Office,1193
+CUST-1072,Pooja Chatterjee,,Unknown,Mumbai,Tamil Nadu,2022-04-22,Corporate,1623
+CUST-1107,Nikhil Saxena,nikhil.saxena107@example.com,7491298929,Hyderabad,Maharashtra,2023-04-22,Consumer,1258
+CUST-1015,Suresh Verma,,7983753977,Ahmedabad,Tamil Nadu,2022-11-20,Consumer,1411
+CUST-1093,Sneha Kumar,sneha.kumar93@example.com,7647812758,Mumbai,Delhi,2022-06-06,Consumer,1578

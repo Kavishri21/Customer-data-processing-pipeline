@@ -1,0 +1,101 @@
+transaction_id,customer_id,transaction_date,product,quantity,unit_price,rejection_reason
+TXN-10308,CUST-1054,invalid-timestamp,Cotton T-Shirt,5,$599.00,Invalid or unparseable transaction_date
+TXN-10405,CUST-1072,2023-11-08 15:02:00,Formal Dress Shirt,2,-49.99,Invalid or non-positive unit_price
+TXN-10350,CUST-9990,2023-04-27 23:32:00,Wireless Headphones,2,,Invalid or non-positive unit_price; Orphaned customer_id (CUST-9990 not found in customers table)
+TXN-10300,CUST-9990,2023-10-16 20:43:00,SQL Query Optimization,-1,750.0,Invalid or non-positive quantity; Orphaned customer_id (CUST-9990 not found in customers table)
+TXN-10035,CUST-1063,2023-05-26 05:28:00,Moisturizing Cream,5,,Invalid or non-positive unit_price
+TXN-10400,CUST-9990,2023-03-03 14:11:00,Slim Fit Denim Jeans,0,1799.0,Invalid or non-positive quantity; Orphaned customer_id (CUST-9990 not found in customers table)
+TXN-10390,CUST-1071,2023-12-01 05:38:00,Data Engineering Essentials,-1,899.0,Invalid or non-positive quantity
+TXN-10374,CUST-1038,invalid-timestamp,Slim Fit Denim Jeans,2,1799.0,Invalid or unparseable transaction_date
+TXN-10240,CUST-1017,2023-07-25 21:06:00,Formal Dress Shirt,-1,1299.0,Invalid or non-positive quantity
+TXN-10075,CUST-9990,2023-05-05 14:36:00,Hair Nourishing Serum,3,450.0,Orphaned customer_id (CUST-9990 not found in customers table)
+TXN-10080,CUST-1024,2023-05-09 07:07:00,Cotton T-Shirt,0,599.0,Invalid or non-positive quantity
+TXN-10132,CUST-1140,invalid-timestamp,Electric Coffee Maker,3,2299.0,Invalid or unparseable transaction_date
+TXN-10484,CUST-1116,invalid-timestamp,Bluetooth Speaker,5,1999.0,Invalid or unparseable transaction_date
+TXN-10210,CUST-1095,2023-07-24 04:48:00,Air Fryer 4L,-1,,Invalid or non-positive quantity; Invalid or non-positive unit_price
+TXN-10425,CUST-9990,2024-01-17 09:26:00,Air Fryer 4L,5,5999.0,Orphaned customer_id (CUST-9990 not found in customers table)
+TXN-10110,CUST-1143,invalid-timestamp,Sunscreen SPF 50,3,499.0,Invalid or unparseable transaction_date
+TXN-10375,CUST-9990,2024-01-27 07:36:00,Python Data Analysis Guide,2,659.0,Orphaned customer_id (CUST-9990 not found in customers table)
+TXN-10625,CUST-9990,2024-01-17 20:59:00,Electric Coffee Maker,1,2299.0,Orphaned customer_id (CUST-9990 not found in customers table)
+TXN-10264,CUST-1117,invalid-timestamp,Organic Face Wash,2,349.0,Invalid or unparseable transaction_date
+TXN-10440,CUST-1121,invalid-timestamp,Casual Hooded Sweatshirt,0,1499.0,Invalid or non-positive quantity; Invalid or unparseable transaction_date
+TXN-10225,CUST-9990,2023-08-14 10:26:00,Slim Fit Denim Jeans,4,-49.99,Invalid or non-positive unit_price; Orphaned customer_id (CUST-9990 not found in customers table)
+TXN-10025,CUST-9990,2023-05-08 06:12:00,Sunscreen SPF 50,4,499.0,Orphaned customer_id (CUST-9990 not found in customers table)
+TXN-10245,CUST-1033,2023-12-15 19:55:00,USB-C Hub,5,,Invalid or non-positive unit_price
+TXN-10520,CUST-1074,2023-04-07 00:45:00,Mechanical Keyboard,0,3499.0,Invalid or non-positive quantity
+TXN-10490,CUST-1141,2023-01-03 18:38:00,Data Engineering Essentials,3,,Invalid or non-positive unit_price
+TXN-10060,CUST-1113,2023-12-28 06:04:00,Designing Data-Intensive Applications,-1,1200.0,Invalid or non-positive quantity
+TXN-10325,CUST-9990,2023-07-26 16:47:00,Non-Stick Frying Pan,4,899.0,Orphaned customer_id (CUST-9990 not found in customers table)
+TXN-10275,CUST-9990,2023-02-24 03:33:00,Slim Fit Denim Jeans,5,1799.0,Orphaned customer_id (CUST-9990 not found in customers table)
+TXN-10022,CUST-1089,invalid-timestamp,Python Data Analysis Guide,5,659.0,Invalid or unparseable transaction_date
+TXN-10475,CUST-9990,2023-06-19 14:45:00,Slim Fit Denim Jeans,3,1799.0,Orphaned customer_id (CUST-9990 not found in customers table)
+TXN-10506,CUST-1142,invalid-timestamp,Organic Face Wash,5,349.0,Invalid or unparseable transaction_date
+TXN-10616,CUST-1123,invalid-timestamp,LED Desk Lamp,5,$799.00,Invalid or unparseable transaction_date
+TXN-10152,CUST-1025,2023-07-23 23:02:00,SQL Query Optimization,1,750.0,Orphaned customer_id (CUST-1025 not found in customers table)
+TXN-10045,CUST-1129,2024-03-18 02:49:00,LED Desk Lamp,4,-49.99,Invalid or non-positive unit_price
+TXN-10315,CUST-1106,2023-10-15 16:41:00,SQL Query Optimization,4,,Invalid or non-positive unit_price
+TXN-10220,CUST-1089,invalid-timestamp,Sunscreen SPF 50,4,499.0,Invalid or unparseable transaction_date
+TXN-10286,CUST-1113,invalid-timestamp,Stainless Steel Water Bottle,1,499.0,Invalid or unparseable transaction_date
+TXN-10640,CUST-1067,2023-03-02 04:12:00,Bluetooth Speaker,0,1999.0,Invalid or non-positive quantity
+TXN-10242,CUST-1124,invalid-timestamp,Cotton T-Shirt,4,599.0,Invalid or unparseable transaction_date
+TXN-10270,CUST-1074,26/01/2024 15:46:00,Python Data Analysis Guide,-1,-49.99,Invalid or non-positive quantity; Invalid or non-positive unit_price
+TXN-10552,CUST-1075,2023-10-13 08:22:00,Wireless Headphones,3,2499.0,Orphaned customer_id (CUST-1075 not found in customers table)
+TXN-10330,CUST-1068,invalid-timestamp,Formal Dress Shirt,-1,1299.0,Invalid or non-positive quantity; Invalid or unparseable transaction_date
+TXN-10528,CUST-1046,invalid-timestamp,Data Engineering Essentials,2 units,899.0,Invalid or unparseable transaction_date
+TXN-10352,CUST-1033,invalid-timestamp,LED Desk Lamp,3 units,799.0,Invalid or unparseable transaction_date
+TXN-10044,CUST-1014,invalid-timestamp,Cotton T-Shirt,2,599.0,Invalid or unparseable transaction_date
+TXN-10070,CUST-1082,2023-10-22 21:58:00,Python Data Analysis Guide,1,,Invalid or non-positive unit_price
+TXN-10595,CUST-1142,2024-01-28 17:59:00,Non-Stick Frying Pan,4,,Invalid or non-positive unit_price
+TXN-10418,CUST-1049,invalid-timestamp,Moisturizing Cream,3,299.0,Invalid or unparseable transaction_date
+TXN-10500,CUST-9990,2023-10-10 08:34:00,Sunscreen SPF 50,3,499.0,Orphaned customer_id (CUST-9990 not found in customers table)
+TXN-10196,CUST-1075,2023-03-02 08:49:00,Electric Coffee Maker,5,$2299.00,Orphaned customer_id (CUST-1075 not found in customers table)
+TXN-10450,CUST-9990,24/01/2023 02:16:00,LED Desk Lamp,-1,-49.99,Invalid or non-positive quantity; Invalid or non-positive unit_price; Orphaned customer_id (CUST-9990 not found in customers table)
+TXN-10360,CUST-1124,11/03/2024 10:59:00,Designing Data-Intensive Applications,-1,-49.99,Invalid or non-positive quantity; Invalid or non-positive unit_price
+TXN-10510,CUST-1073,2023-09-03 06:37:00,Cotton T-Shirt,-1,599.0,Invalid or non-positive quantity
+TXN-10462,CUST-1108,invalid-timestamp,USB-C Hub,5,$1299.00,Invalid or unparseable transaction_date
+TXN-10154,CUST-1027,invalid-timestamp,Non-Stick Frying Pan,1,$899.00,Invalid or unparseable transaction_date
+TXN-10600,CUST-9990,2024-02-27 22:44:00,Moisturizing Cream,-1,299.0,Invalid or non-positive quantity; Orphaned customer_id (CUST-9990 not found in customers table)
+TXN-10200,CUST-9990,2023-08-28 17:08:00,Organic Face Wash,0,349.0,Invalid or non-positive quantity; Orphaned customer_id (CUST-9990 not found in customers table)
+TXN-10150,CUST-9990,2023-04-15 09:13:00,Casual Hooded Sweatshirt,-1,1499.0,Invalid or non-positive quantity; Orphaned customer_id (CUST-9990 not found in customers table)
+TXN-10607,CUST-1075,2023-11-12 23:33:00,Cotton T-Shirt,3,599.0,Orphaned customer_id (CUST-1075 not found in customers table)
+TXN-10420,CUST-1022,2024-01-27 07:57:00,USB-C Hub,-1,,Invalid or non-positive quantity; Invalid or non-positive unit_price
+TXN-10525,CUST-9990,2024-02-05 22:10:00,Mechanical Keyboard,4,,Invalid or non-positive unit_price; Orphaned customer_id (CUST-9990 not found in customers table)
+TXN-10050,CUST-9990,2023-07-26 22:18:00,Sunscreen SPF 50,4,499.0,Orphaned customer_id (CUST-9990 not found in customers table)
+TXN-10575,CUST-9990,2023-07-19 21:19:00,Stainless Steel Water Bottle,5,499.0,Orphaned customer_id (CUST-9990 not found in customers table)
+TXN-10040,CUST-1150,2023-01-19 11:37:00,Hair Nourishing Serum,0,450.0,Invalid or non-positive quantity
+TXN-10650,CUST-9990,2023-09-24 23:40:00,Python Data Analysis Guide,5,659.0,Orphaned customer_id (CUST-9990 not found in customers table)
+TXN-10540,CUST-1113,03/02/2024 03:07:00,Mechanical Keyboard,-1,-49.99,Invalid or non-positive quantity; Invalid or non-positive unit_price
+TXN-10570,CUST-1121,2023-05-18 04:45:00,Data Engineering Essentials,-1,899.0,Invalid or non-positive quantity
+TXN-10630,CUST-1087,19/03/2024 14:56:00,Formal Dress Shirt,-1,,Invalid or non-positive quantity; Invalid or non-positive unit_price
+TXN-10555,CUST-1025,2023-02-10 05:21:00,Casual Hooded Sweatshirt,3,1499.0,Orphaned customer_id (CUST-1025 not found in customers table)
+TXN-10175,CUST-9990,2024-01-26 05:17:00,Python Data Analysis Guide,4,,Invalid or non-positive unit_price; Orphaned customer_id (CUST-9990 not found in customers table)
+TXN-10125,CUST-9990,2023-03-01 04:02:00,USB-C Hub,1,1299.0,Orphaned customer_id (CUST-9990 not found in customers table)
+TXN-10167,CUST-1075,2023-07-12 20:50:00,LED Desk Lamp,1,799.0,Orphaned customer_id (CUST-1075 not found in customers table)
+TXN-10066,CUST-1129,invalid-timestamp,Wireless Headphones,5,2499.0,Invalid or unparseable transaction_date
+TXN-10560,CUST-1077,2023-03-09 16:53:00,Cotton T-Shirt,0,,Invalid or non-positive quantity; Invalid or non-positive unit_price
+TXN-10088,CUST-1011,invalid-timestamp,Sports Running Shoes,1,2999.0,Invalid or unparseable transaction_date
+TXN-10250,CUST-9990,2023-08-05 11:44:00,Wireless Headphones,1,2499.0,Orphaned customer_id (CUST-9990 not found in customers table)
+TXN-10638,CUST-1049,invalid-timestamp,Organic Face Wash,2,349.0,Invalid or unparseable transaction_date
+TXN-10100,CUST-9990,2023-10-09 04:59:00,Non-Stick Frying Pan,1,899.0,Orphaned customer_id (CUST-9990 not found in customers table)
+TXN-10480,CUST-1097,2023-07-15 03:24:00,Stainless Steel Water Bottle,-1,499.0,Invalid or non-positive quantity
+TXN-10135,CUST-1073,2024-03-09 12:27:00,Gaming Mouse,4,-49.99,Invalid or non-positive unit_price
+TXN-10341,CUST-1025,2023-01-09 18:04:00,Smart Watch,1,4999.0,Orphaned customer_id (CUST-1025 not found in customers table)
+TXN-10176,CUST-1090,invalid-timestamp,Mechanical Keyboard,3 units,3499.0,Invalid or unparseable transaction_date
+TXN-10572,CUST-1110,invalid-timestamp,Casual Hooded Sweatshirt,4,1499.0,Invalid or unparseable transaction_date
+TXN-10105,CUST-1095,2023-06-20 17:48:00,Hair Nourishing Serum,3,,Invalid or non-positive unit_price
+TXN-10280,CUST-1150,2023-10-16 21:02:00,Cotton T-Shirt,0,,Invalid or non-positive quantity; Invalid or non-positive unit_price
+TXN-10320,CUST-1012,2024-02-20 23:37:00,Electric Coffee Maker,0,2299.0,Invalid or non-positive quantity
+TXN-10479,CUST-1075,2024-02-26 20:00:00,USB-C Hub,2,1299.0,Orphaned customer_id (CUST-1075 not found in customers table)
+TXN-10090,CUST-1009,06/02/2023 21:14:00,Non-Stick Frying Pan,-1,-49.99,Invalid or non-positive quantity; Invalid or non-positive unit_price
+TXN-10101,CUST-1125,2023-06-09 17:00:00,Organic Face Wash,2,349.0,Orphaned customer_id (CUST-1125 not found in customers table)
+TXN-10495,CUST-1093,2023-03-20 18:36:00,Non-Stick Frying Pan,2,-49.99,Invalid or non-positive unit_price
+TXN-10455,CUST-1072,2023-08-18 02:54:00,Designing Data-Intensive Applications,1,,Invalid or non-positive unit_price
+TXN-10509,CUST-1125,2023-07-05 19:45:00,USB-C Hub,3,1299.0,Orphaned customer_id (CUST-1125 not found in customers table)
+TXN-10120,CUST-1066,2023-03-09 17:56:00,Electric Coffee Maker,-1,2299.0,Invalid or non-positive quantity
+TXN-10585,CUST-1097,2024-01-05 02:42:00,Sunscreen SPF 50,5,-49.99,Invalid or non-positive unit_price
+TXN-10385,CUST-1012,2023-05-08 22:04:00,Stainless Steel Water Bottle,1,,Invalid or non-positive unit_price
+TXN-10550,CUST-9990,invalid-timestamp,Python Data Analysis Guide,1,659.0,Invalid or unparseable transaction_date; Orphaned customer_id (CUST-9990 not found in customers table)
+TXN-10160,CUST-1082,2023-08-25 14:02:00,Bluetooth Speaker,0,1999.0,Invalid or non-positive quantity
+TXN-10140,CUST-1145,2023-08-10 03:47:00,LED Desk Lamp,1,,Invalid or non-positive unit_price
+TXN-10180,CUST-1133,25/01/2023 07:26:00,Organic Face Wash,-1,-49.99,Invalid or non-positive quantity; Invalid or non-positive unit_price
+TXN-10030,CUST-1093,2023-09-02 16:58:00,Organic Face Wash,-1,349.0,Invalid or non-positive quantity
